@@ -23,32 +23,31 @@ def scrape():
 
     events = []
 
-    seminar_blocks = soup.find_all("div", class_="seminar")  # adjust if needed
+    seminar_blocks = soup.find_all("li", class_="event")
 
     for block in seminar_blocks:
 
-        title_tag = block.find("h3")
+        title_tag = block.find("b", class_="titre-event")
         title = title_tag.text.strip() if title_tag else "TBA"
 
-        speaker = block.find("span", class_="speaker")
-        speaker = speaker.text.strip() if speaker else "Unknown"
+        speaker_tag = block.find("span", class_="auteur")
+        speaker = speaker_tag.text.replace("", "").strip() if speaker_tag else "Unknown"
 
-        date = block.find("span", class_="date")
-        date = date.text.strip() if date else None
-
-        time = block.find("span", class_="time")
-        time = time.text.strip() if time else "14:00"
-
-        room = block.find("span", class_="room")
-        room = room.text.strip() if room else "IMAG 106"
-
-        series = block.find("span", class_="series")
-        series = series.text.strip() if series else ""
-
-        if not date:
+        date_tag = block.find("span", class_="date")
+        if not date_tag:
             continue
 
-        start_dt = parse_date_time(date, time)
+        # Format example: "02/04/2026 - 14:00"
+        date_text = date_tag.text.strip()
+        date_part, time_part = [x.strip() for x in date_text.split("-")]
+
+        room_tag = block.find("span", class_="lieu")
+        room = room_tag.text.strip() if room_tag else ""
+
+        series_tag = block.find("span", class_="nomseminaire")
+        series = series_tag.text.strip() if series_tag else ""
+
+        start_dt = parse_date_time(date_part, time_part)
 
         e = Event()
         e.name = title
@@ -56,11 +55,12 @@ def scrape():
         e.duration = {"hours": 1}
         e.location = room
         e.description = f"Speaker: {speaker}\nSeries: {series}"
-        e.uid = stable_uid(date, time, speaker)
+        e.uid = stable_uid(date_part, time_part, speaker)
 
         events.append(e)
 
     return events
+
 
 def generate_ics(events):
     cal = Calendar()
