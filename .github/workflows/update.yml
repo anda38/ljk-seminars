@@ -21,7 +21,7 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Generate calendar
-        run: python generate_calendar.py
+        run: python generate_calendars.py
 
       - name: Commit and push if changed
         run: |
