@@ -74,14 +74,6 @@ SUMMARY:Dynamic and Structured Secure Multi-party Computations
 UID:abb981a05daa6a2737d7b031005f9a11@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Luc Giraud\nSeries: Modèles et Algorithmes Déterministes: EDP-MOISE
-DURATION:PT1H
-LOCATION:Salle 1 - Tour IRMA
-DTSTART:20151112T141500Z
-SUMMARY:Some progresses in parallel numerical linear algebra.
-UID:1b47206e2d86c5dd92c256b644a6f745@ljk-seminars
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Speaker: Marguerite Gisclon\nSeries: AMAC: EDP-AIRSEA-CVGI
 DURATION:PT1H
 LOCATION:IMAG 106
@@ -149,13 +141,6 @@ SUMMARY:Boris-SDC: A high order generalisation of the Boris integrator
 UID:426765b732a3093a82d508622e301c64@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Rajendra Bhatia\nSeries: Modèles et Algorithmes Déterministes: EDP-MOISE-MGMI
-DURATION:PT1H
-DTSTART:20150115T143000Z
-SUMMARY:Loewner Matrices
-UID:fe9ab20be4ab2b6eade8af3dd7aa40a3@ljk-seminars
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Speaker: Paul-Marie Grollemund\nSeries: Probabilités & Statistique
 DURATION:PT1H
 DTSTART:20180322T130000Z
@@ -203,22 +188,6 @@ SUMMARY:What is new in Domain Decomposition?
 UID:89d0155b6655e524ba4905ab7064a146@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Andrej Bauer\nSeries: Modèles et Algorithmes Déterministes: CASYS
-DURATION:PT1H
-LOCATION:Salle 1 - Tour IRMA
-DTSTART:20151210T083000Z
-SUMMARY:Algebraic effects and handlers
-UID:e2a839f3b6a53b8aadd563ce487b8382@ljk-seminars
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Matteo Santacesaria\nSeries: Modèles et Algorithmes Déterministes: EDP-MOISE-MGMI
-DURATION:PT1H
-LOCATION:Salle 1 - Tour IRMA
-DTSTART:20150430T133000Z
-SUMMARY:New numerical results for the Gel'fand-Calderon problem.
-UID:00141d01eb84b25defff63055e2ebc39@ljk-seminars
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Speaker: François Delarue\nSeries: Données et Aléatoire Théorie & Applications
 DURATION:PT1H
 LOCATION:Salle 106 - Batiment IMAG
@@ -251,14 +220,6 @@ SUMMARY:Modèles bayésiens non-paramétriques en phylogénie et en évolution m
 UID:6c35936cf4d60c56693279a3c3677f97@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Annalisa Massaccesi\nSeries: Modèles et Algorithmes Déterministes: EDP-MOISE-MGMI
-DURATION:PT1H
-LOCATION:Salle 1 - Tour IRMA
-DTSTART:20150319T100000Z
-SUMMARY:Currents with coefficients in groups and applications
-UID:88da2d734d0bde185789f86145df3cf5@ljk-seminars
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Speaker: TrungTin Nguyen\nSeries: Données et Aléatoire Théorie & Applications
 DURATION:PT1H
 LOCATION:Salle 106
@@ -273,14 +234,6 @@ LOCATION:Salle 106 - Batiment IMAG
 DTSTART:20190502T090000Z
 SUMMARY:Couplage de méthode variationnelle avec des CNN pour la colorisation d'image.
 UID:076d0666068620d244f836ff9cdde28e@ljk-seminars
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Gabriel PEYRE\nSeries: Probabilités & Statistique
-DURATION:PT1H
-LOCATION:Salle 1 - Tour IRMA
-DTSTART:20150129T130000Z
-SUMMARY:Entropic Regularization of Wasserstein Barycenters
-UID:1658a5d8dc64b8ca9736a9af5391c8c8@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Speaker: Davide Giraudo\nSeries: Données et Aléatoire Théorie & Applications
@@ -321,14 +274,6 @@ LOCATION:Salle 106
 DTSTART:20231123T130000Z
 SUMMARY:TBA
 UID:d4cf4d04a9e6267ebe93fffce64578f3@ljk-seminars
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Dan Negrut\nSeries: Modèles et Algorithmes Déterministes: BIPOP
-DURATION:PT1H
-LOCATION:Grand Amphi de l'INRIA Rhône-Alpes\, Montbonnot
-DTSTART:20150122T090000Z
-SUMMARY:Project Chrono - An open source framework for the dynamics analysis of many-body systems
-UID:ab3087ecf98a66643989664ac171ee5b@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Speaker: Eddie Aamari\nSeries: Modèles et Algorithmes Déterministes: EDP-MOISE-MGMI
@@ -466,14 +411,6 @@ SUMMARY:Estimation par densités prédictives : résultats récents
 UID:ca97803db861703eb45cff9a004dbea8@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Frédéric Magoulès\nSeries: Modèles et Algorithmes Déterministes: EDP-MOISE-MGMI
-DURATION:PT1H
-LOCATION:Salle 1 - Tour IRMA
-DTSTART:20150402T090000Z
-SUMMARY:Méthodes de décomposition de domaines avec itérations asynchrones
-UID:bfe81ca389adad78dd1285604ffd2de9@ljk-seminars
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Speaker: Emilie DEVIJVER\nSeries: Probabilités & Statistique
 DURATION:PT1H
 LOCATION:Salle 1 - Tour IRMA
@@ -496,14 +433,6 @@ LOCATION:IMAG 206
 DTSTART:20230202T130000Z
 SUMMARY:A comprehensive\, formal and automated analysis of the EDHOC protocol
 UID:4d2918911d8afb6301f34989b035d9de@ljk-seminars
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Dmitry Ponomarev\nSeries: Modèles et Algorithmes Déterministes: EDP-MOISE-MGMI
-DURATION:PT1H
-LOCATION:Salle 1 - Tour IRMA
-DTSTART:20150528T090000Z
-SUMMARY:Some inverse problems of paleomagnetism
-UID:b025b1be7435c653903b3df3645ca9b0@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Speaker: Akim Adekpedjou\nSeries: Données et Aléatoire Théorie & Applications
@@ -562,35 +491,11 @@ SUMMARY:Maillages courbes pour un problème de diffusion avec le Laplacien de su
 UID:a8be7de37878815544bb4699256e3c4e@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Omiros Papaspiliopoulos\nSeries: Probabilités & Statistique
-DURATION:PT1H
-LOCATION:Salle 1 - Tour IRMA
-DTSTART:20150205T130000Z
-SUMMARY:Markov chain Monte Carlo methods for partially observed diffusions
-UID:af106f4aa30de0d0eadced06364a5a9a@ljk-seminars
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Speaker: Ilaria Zappatore\nSeries: AMAC: CASC
 DURATION:PT1H
 DTSTART:20200604T120000Z
 SUMMARY:On the uniqueness of the Simultaneous Rational Function Reconstruction
 UID:e305273a02660e6ea156f69c3fc589fc@ljk-seminars
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Tony LELIEVRE\nSeries: Probabilités & Statistique
-DURATION:PT1H
-LOCATION:Salle 1 - Tour IRMA
-DTSTART:20151112T130000Z
-SUMMARY:Accelerated dynamics: algorithms and mathematical foundations
-UID:18eff95df7facfe62217513ec97b6713@ljk-seminars
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Simone Hermann\nSeries: Probabilités & Statistique
-DURATION:PT1H
-LOCATION:Salle 1 - Tour IRMA
-DTSTART:20150618T120000Z
-SUMMARY:Bayesian prediction of crack growth based on a hierarchical diffusion model
-UID:bd12e5dbd0abe555367be83e99ba7fff@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Speaker: Jean-Marc Robert\nSeries: Modèles et Algorithmes Déterministes: CASYS
@@ -639,14 +544,6 @@ LOCATION:IMAG 106
 DTSTART:20230621T113000Z
 SUMMARY:MyOPE: Malicious securitY for Oblivious Polynomial Evaluation
 UID:8286d3395f2ad3c0524247469cf30fdb@ljk-seminars
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Matthias Rabatel\nSeries: Doctorants
-DURATION:PT1H
-LOCATION:Salle 1 - Tour IRMA
-DTSTART:20151117T140000Z
-SUMMARY:Modélisation dynamique d'un assemblage de floes rigides
-UID:193a5879ee9240be6fa72272b76c35bd@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Speaker: Yannick Privat\nSeries: AMAC: EDP-AIRSEA-CVGI
@@ -744,29 +641,6 @@ SUMMARY:On moments of Pitman estimators
 UID:fb5f888b822490276141d6d4c3b17618@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Stéphane CHRETIEN\nSeries: Probabilités & Statistique
-DURATION:PT1H
-LOCATION:Salle 1 - Tour IRMA
-DTSTART:20150423T120000Z
-SUMMARY:Reconstruction de tenseurs symétriques de faible rang par optimisation convexe
-UID:6eb450ed12ca350c65df98070e3b0ace@ljk-seminars
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Durkbin Cho\nSeries: Modèles et Algorithmes Déterministes: EDP-MOISE-MGMI
-DURATION:PT1H
-DTSTART:20150122T100000Z
-SUMMARY:Generalized T-splines and T-meshes guaranteeing their linear independence
-UID:66c82d178580709d546600654f6acaa0@ljk-seminars
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Pierre-Olivier Lamare\nSeries: Modèles et Algorithmes Déterministes: CASYS
-DURATION:PT1H
-LOCATION:Salle 1 - Tour IRMA
-DTSTART:20150226T083000Z
-SUMMARY:Switching rules for stabilization of linear systems of conservation laws
-UID:bc913b44398bc81517f01c04d1a6355b@ljk-seminars
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Speaker: Sergei Grudinin\nSeries: Données et Aléatoire Théorie & Applications
 DURATION:PT1H
 LOCATION:Salle 106
@@ -781,14 +655,6 @@ LOCATION:Salle 106
 DTSTART:20230427T120000Z
 SUMMARY:Exploration of the search space of Gaussian graphical models for paired data
 UID:17c30f7f70e8ea8739c96ff9941466ff@ljk-seminars
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Martin Gander\nSeries: Modèles et Algorithmes Déterministes: EDP-MOISE
-DURATION:PT1H
-LOCATION:Salle 1 - Tour IRMA
-DTSTART:20151126T100000Z
-SUMMARY:Archimedes\, Bernoulli\, Lagrange\, Pontryagin\, Lions: From Lagrange Multipliers to Optimal Control and PDE Constraints
-UID:a8d294aa2ab3ab7aa1eb5589bfba0ed6@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Speaker: Antoine CHANNAROND\nSeries: Probabilités & Statistique
@@ -1053,14 +919,6 @@ SUMMARY:Demi-journée des doctorant.es
 UID:6738c5511012571b9a05b9d2f01d3237@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Frédéric de Gournay\nSeries: Modèles et Algorithmes Déterministes: EDP-MOISE-MGMI
-DURATION:PT1H
-LOCATION:Salle 1 - Tour IRMA
-DTSTART:20150604T090000Z
-SUMMARY:Sur le problème de Graetz
-UID:2feab8c10320bfec041d73078c3362fb@ljk-seminars
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Speaker: Brice Minaud\nSeries: Modèles et Algorithmes Déterministes: CASYS
 DURATION:PT1H
 LOCATION:Salle 206 - Batiment IMAG
@@ -1075,14 +933,6 @@ LOCATION:Salle 106
 DTSTART:20231123T130000Z
 SUMMARY:TBA
 UID:89c107486b697acc759c7a8d0b36df42@ljk-seminars
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Marc Dambrine\nSeries: Modèles et Algorithmes Déterministes: EDP-MOISE-MGMI
-DURATION:PT1H
-LOCATION:Salle 1 - Tour IRMA
-DTSTART:20150507T090000Z
-SUMMARY:Dérivées de forme\, couches minces et domaines aléatoires
-UID:c489ab4c860dee0070b3ac0a47458e76@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Speaker: Florence Forbes\nSeries: Données et Aléatoire Théorie & Applications
@@ -1107,14 +957,6 @@ LOCATION:Salle 106
 DTSTART:20251120T130000Z
 SUMMARY:Méthodes de sélection de variables en régression multi-cibles et en contexte non supervisé
 UID:5d65c3a25a8a45aca51eae04e0a32507@ljk-seminars
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Yuli Starosvetsky\nSeries: Modèles et Algorithmes Déterministes: BIPOP
-DURATION:PT1H
-LOCATION:Salle F107 de l'INRIA Rhône-Alpes\, Montbonnot
-DTSTART:20150717T123000Z
-SUMMARY:2D Energy channeling in the locally coupled acoustic metamaterials
-UID:1193bd825b86eb5a899836ae6754680e@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Speaker: Julien Salomon\nSeries: AMAC: EDP-AIRSEA-CVGI
@@ -1181,14 +1023,6 @@ SUMMARY:Stochastic Online Optimization using Kalman Recursion
 UID:dea9591cf903517585729fca0d0e6ffe@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Markus REISS\nSeries: Probabilités & Statistique
-DURATION:PT1H
-LOCATION:Salle 1 - Tour IRMA
-DTSTART:20150122T130000Z
-SUMMARY:Estimating nonparametric functionals efficiently under one-sided errors
-UID:34e355fa52379dc90cf530c593d94a76@ljk-seminars
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Speaker: Antoine de Tarlé\nSeries: AMAC: CASC
 DURATION:PT1H
 LOCATION:IMAG 106
@@ -1210,14 +1044,6 @@ LOCATION:Salle 106
 DTSTART:20260115T130000Z
 SUMMARY:Un nouvel estimateur du support d'une densité (presque) automatique et (souvent) minimax
 UID:9f269c04fec59278dd9cb614efc60123@ljk-seminars
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Yannick Privat\nSeries: Modèles et Algorithmes Déterministes: EDP-MOISE-MGMI
-DURATION:PT1H
-LOCATION:Salle 1 - Tour IRMA
-DTSTART:20151210T100000Z
-SUMMARY:Optimisation de la forme de capteurs pour l'observation d'EDP
-UID:37af066e32340c0c057b7d9d40b1f68e@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Speaker: Simon Masnou\nSeries: Modèles et Algorithmes Déterministes: EDP-MOISE-MGMI
@@ -1298,14 +1124,6 @@ LOCATION:IMAG 106
 DTSTART:20260312T103000Z
 SUMMARY:TBA
 UID:b22d88aa60caebe40a3c5ffcf0515f50@ljk-seminars
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Laurent Gardes\nSeries: Probabilités & Statistique
-DURATION:PT1H
-LOCATION:Salle 1 - Tour IRMA
-DTSTART:20150528T120000Z
-SUMMARY:Estimation de quantiles extrêmes pour des données tronquées
-UID:400b02e32d1e1ba73f05c4371d4e20de@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Speaker: Vincent Neiger\nSeries: AMAC: CASC
@@ -1434,14 +1252,6 @@ LOCATION:Salle 106 - Batiment IMAG
 DTSTART:20170406T073000Z
 SUMMARY:Avancés récentes sur le calcul de collisions pour SHA-1
 UID:c21922ded92fbb0aa65c8c212b8345c7@ljk-seminars
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Gen Nakamura\nSeries: Modèles et Algorithmes Déterministes: EDP-MOISE-MGMI
-DURATION:PT1H
-LOCATION:Salle 1 - Tour IRMA
-DTSTART:20150708T090000Z
-SUMMARY:Unique Continuation property for 2nd order strongly elliptic systems.
-UID:339fcc1a680fba3b194840a6bbbbab37@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Speaker: Unknown\nSeries: Probabilités & Statistique
@@ -1698,14 +1508,6 @@ SUMMARY:Low-rank matrix completion techniques applied to functional fragments
 UID:dfd473814e0e54d3225b8d159f9127a0@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Alessandro Giacomini\nSeries: Modèles et Algorithmes Déterministes: EDP-MOISE-MGMI
-DURATION:PT1H
-LOCATION:en attente d'une salle
-DTSTART:20150226T143000Z
-SUMMARY:Variational approach to quasi-static evolutions in plasticity
-UID:0c7b14b46b6476763956aaab9536fa2c@ljk-seminars
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Speaker: Doctorant·e·s de DATA\nSeries: Données et Aléatoire Théorie & Applications
 DURATION:PT1H
 LOCATION:Salle Jacques Cartier\, Maison des langues et des cultures
@@ -1736,14 +1538,6 @@ LOCATION:Salle 106
 DTSTART:20260226T130000Z
 SUMMARY:Momentum Smooths the Path to Gradient Equilibrium
 UID:447d52b7ce00a1ecee6a6d95272c2a3f@ljk-seminars
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Souhil Chakar\nSeries: Probabilités & Statistique
-DURATION:PT1H
-LOCATION:Salle 1 - Tour IRMA
-DTSTART:20150212T130000Z
-SUMMARY:A robust approach for estimating change-points in the mean of an autoregressive process
-UID:bd2a897d894f72e16d6d2c4fba263dc9@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Speaker: Radomyra Shevchenko\nSeries: Données et Aléatoire Théorie & Applications
@@ -1919,14 +1713,6 @@ SUMMARY:Eigenvalues\, invariant and random integer matrices
 UID:141194238a3cf30beceeecb15fb592cb@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Cécile CHAUVEL\nSeries: Probabilités & Statistique
-DURATION:PT1H
-LOCATION:Salle 1 - Tour IRMA
-DTSTART:20150409T120000Z
-SUMMARY:Tests de comparaison de courbes de survie
-UID:00b96a477d8e8fc77efb8e055bb9a641@ljk-seminars
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Speaker: Vivian Viallon\nSeries: Données et Aléatoire Théorie & Applications
 DURATION:PT1H
 LOCATION:Salle 106 - Batiment IMAG
@@ -2086,22 +1872,6 @@ SUMMARY:Etude multivariée de séries temporelles par ondelettes : estimation de
 UID:e91f959b16f10befb12cf66649da131c@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Alexandre Hoffmann\nSeries: Doctorants
-DURATION:PT1H
-LOCATION:Salle 1 - Tour IRMA
-DTSTART:20151103T140000Z
-SUMMARY:Une méthode FFT-Newton hybride pour la modélisation de protéines flexibles
-UID:4c18115510399f67c2ee3096519aa9b6@ljk-seminars
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: André Lieutier\nSeries: Modèles et Algorithmes Déterministes: EDP-MOISE-MGMI
-DURATION:PT1H
-LOCATION:Salle 1 - Tour IRMA
-DTSTART:20150115T100000Z
-SUMMARY:Minimisation Lp des formes différentielles discrètes dans leur classe d'homologie
-UID:bb9741bf20ec2a5acdde0edb4f8884a1@ljk-seminars
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Speaker: Emmanuel Trélat\nSeries: AMAC: EDP-AIRSEA-CVGI
 DURATION:PT1H
 LOCATION:IMAG 106
@@ -2134,13 +1904,6 @@ SUMMARY:(SEMINAIRE COMMUN LJK/IF:) Stochastic models in adaptive dynamics and ap
 UID:d5a4a2c92ce587db86f6528f494d5e16@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Abdelhakim Necir\nSeries: Probabilités & Statistique
-DURATION:PT1H
-DTSTART:20151022T120000Z
-SUMMARY:Tail empirical process for truncated data with application to extreme value index estimation
-UID:d03121c559db0079a8e6eb44d725554a@ljk-seminars
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Speaker: Aude  Sportisse\nSeries: Données et Aléatoire Théorie & Applications
 DURATION:PT1H
 LOCATION:Salle 106
@@ -2157,14 +1920,6 @@ SUMMARY:Saudade mathématique sur les thématiques de DAO (optimisation\, appren
 UID:2ab748b69c7e01ea57266d9a8909afe5@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Okba Hamitou\nSeries: Doctorants
-DURATION:PT1H
-LOCATION:Salle 1 - Tour IRMA
-DTSTART:20151201T140000Z
-SUMMARY:Préconditionnement et stratégies à multiples membres de droite pour la solution du problème de propagation de vague en domaine-fréquence\, à l'aide la méthode CGMN
-UID:de1db8117c3bd6ab90c85f89bc780d5a@ljk-seminars
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Speaker: Michel Cristofol\nSeries: AMAC: EDP-AIRSEA-CVGI
 DURATION:PT1H
 LOCATION:Salle 206 - Batiment IMAG
@@ -2179,22 +1934,6 @@ LOCATION:Salle séminaire 2 au rdc
 DTSTART:20250109T130000Z
 SUMMARY:Ensembles in machine learning: theory and practice
 UID:f364a486fc02328b3639da5449210975@ljk-seminars
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Nicolas DUCOUSSO\nSeries: Modèles et Algorithmes Déterministes: EDP-MOISE-MGMI
-DURATION:PT1H
-LOCATION:Salle 1 - Tour IRMA
-DTSTART:20151105T100000Z
-SUMMARY:Impact of the ''symmetric instability of the computational kind'' on ocean simulations
-UID:f28d01797f9f26d245ad75144d8ebaaf@ljk-seminars
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Alain Colin de Verdière\nSeries: Modèles et Algorithmes Déterministes: MODANT
-DURATION:PT1H
-LOCATION:Salle 1 - Tour IRMA
-DTSTART:20150527T083000Z
-SUMMARY:Circulations océaniques : théories et observations (1/2)
-UID:db342431a6c368c38b911ce3c8068907@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Speaker: Sabine Mercier\nSeries: Données et Aléatoire Théorie & Applications
@@ -2640,14 +2379,6 @@ SUMMARY:Quadratic Wasserstein metric(W2) and its application on seismic inversio
 UID:ae350ca036a9ac47015dbcdb566d284b@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Nicolas Vauchelet\nSeries: Modèles et Algorithmes Déterministes: EDP-MOISE-MGMI
-DURATION:PT1H
-LOCATION:Salle 1 - Tour IRMA
-DTSTART:20151001T090000Z
-SUMMARY:Limite hydrodynamique d'un modèle cinétique décrivant le chimiotactisme bactérien
-UID:000657b496b2f204b7bfe1dd91a35087@ljk-seminars
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Speaker: Quentin Cormier\nSeries: Données et Aléatoire Théorie & Applications
 DURATION:PT1H
 LOCATION:Salle 106
@@ -2719,35 +2450,12 @@ SUMMARY:Méthode bayésienne pour estimer le seuil optimal d'un marqueur utilis�
 UID:354adc7f813d95a069f795eaeeeea068@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Martin Burger\nSeries: Modèles et Algorithmes Déterministes: EDP-MOISE-MGMI
-DURATION:PT1H
-LOCATION:Salle 1 - Tour IRMA
-DTSTART:20150618T090000Z
-SUMMARY:Tracking discontinuities in images and indirect data
-UID:db9310ffff2b2809b7575eb57d5e088e@ljk-seminars
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Speaker: Martin Schreiber\nSeries: AMAC: EDP-AIRSEA-CVGI
 DURATION:PT1H
 LOCATION:IMAG 106
 DTSTART:20220127T103000Z
 SUMMARY:A Brief Glimpse on Emerging Time Integration Methods for Weather and Climate Simulations
 UID:056e36c3d096f8c15bd250c6fd8fb219@ljk-seminars
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Sophie DONNET\nSeries: Probabilités & Statistique
-DURATION:PT1H
-DTSTART:20151105T130000Z
-SUMMARY:Stochastic Block model pour les réseaux multiplex. Application à un réseau de chercheurs
-UID:a719b3b5345feca8bc5c6fc348560ce4@ljk-seminars
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Olga KLOPP\nSeries: Probabilités & Statistique
-DURATION:PT1H
-LOCATION:Salle 1 - Tour IRMA
-DTSTART:20150924T120000Z
-SUMMARY:Les inégalités d'oracle pour les modèles de réseaux parcimonieux
-UID:8f547968cac9d727b8b2c5dc6842444c@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Speaker: Thomas Debris-Alazard\nSeries: AMAC: CASC
@@ -2885,14 +2593,6 @@ SUMMARY:Segmentation of anisotropic scale-free textures based on dual-tree wavel
 UID:0ee7a69344f9d9430b42fdc17e879bb7@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Vladimir Rogojin\nSeries: Modèles et Algorithmes Déterministes: CASYS
-DURATION:PT1H
-LOCATION:Salle 1 - Tour IRMA
-DTSTART:20150702T073000Z
-SUMMARY:Example of computation in living cells\, gene assembly in ciliates
-UID:1cd044ce811e03e19dcd985f99ce4904@ljk-seminars
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Speaker: Matthieu Bonnivard\nSeries: AMAC: EDP-AIRSEA-CVGI
 DURATION:PT1H
 LOCATION:IMAG 106
@@ -2965,14 +2665,6 @@ SUMMARY:Nonparametric adaptive estimation for grouped data
 UID:e5495f52e45e8269607d0e28efa88c77@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Maike Massierer\nSeries: Modèles et Algorithmes Déterministes: CASYS
-DURATION:PT1H
-LOCATION:Salle 1 - Tour IRMA
-DTSTART:20150122T083000Z
-SUMMARY:Existe-t-il un algorithme de complexité L(1/4) pour calculer des logarithmes discrets dans les courbes algébriques ?
-UID:e66928ec30cc150ae59858d1902761d2@ljk-seminars
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Speaker: Lenaic Chizat\nSeries: Modèles et Algorithmes Déterministes: EDP-MOISE-MGMI
 DURATION:PT1H
 LOCATION:Salle 106 - Batiment IMAG
@@ -3003,14 +2695,6 @@ LOCATION:Salle 106 - Batiment IMAG
 DTSTART:20190221T130000Z
 SUMMARY:Dynamique de la biodiversité dans les métacommunautés : modélisation et inférence
 UID:1b26e564e7c099abd3efcc27b0c21818@ljk-seminars
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Roland Potthast\nSeries: Modèles et Algorithmes Déterministes: EDP-MOISE-MGMI
-DURATION:PT1H
-LOCATION:Salle 1 - Tour IRMA
-DTSTART:20151215T100000Z
-SUMMARY:On Ensemble and Particle Filters for Large-Scale Data Assimilation
-UID:2c46ebb0573d398118a769c6952b5067@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Speaker: Adélaïde Olivier\nSeries: Probabilités & Statistique
@@ -3069,22 +2753,6 @@ SUMMARY:Dirichlet process mixtures for density estimation and clustering under a
 UID:526178f0fa7da0ea1d611e6baf78e41e@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Ziad Sultan\nSeries: Modèles et Algorithmes Déterministes: CASYS
-DURATION:PT1H
-LOCATION:Salle 1 - Tour IRMA
-DTSTART:20151126T083000Z
-SUMMARY:Adaptive and generic parallel computation of echelon forms
-UID:beceb92c18525e211aab231c301d1c20@ljk-seminars
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: José R. Leon\nSeries: Probabilités & Statistique
-DURATION:PT1H
-LOCATION:Salle 1 - Tour IRMA
-DTSTART:20150611T120000Z
-SUMMARY:Estimation non paramétrique pour des diffusions hypoelliptiques
-UID:ce8d41ee9b040e4eafe916559ee5ce5e@ljk-seminars
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Speaker: Mads Bonde Raad\nSeries: Probabilités & Statistique
 DURATION:PT1H
 LOCATION:Salle 106 - Batiment IMAG
@@ -3107,14 +2775,6 @@ LOCATION:Salle 106 - Batiment IMAG
 DTSTART:20190502T120000Z
 SUMMARY:Closed-form Maximum Likelihood Estimator for Generalized Linear Models in the case of categorical explanatory variables: Application to insurance loss modeling
 UID:218ce1e88b22ad7fa21a9fde86bb2a0f@ljk-seminars
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: François Dubois\nSeries: Modèles et Algorithmes Déterministes: EDP-MOISE-MGMI
-DURATION:PT1H
-LOCATION:Salle 1 - Tour IRMA
-DTSTART:20150430T090000Z
-SUMMARY:Une introduction aux schémas de Boltzmann sur réseau
-UID:2add227e537bc18e11ee85faf15b8ab3@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Speaker: Scalde\nSeries: Données et Aléatoire Théorie & Applications
@@ -3179,14 +2839,6 @@ LOCATION:IMAG 106
 DTSTART:20260122T103000Z
 SUMMARY:Asymptotic Analysis of the Static Bidomain Model
 UID:02e1c76bfea17294a17a423018572215@ljk-seminars
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Camille Persson\nSeries: Modèles et Algorithmes Déterministes: CASYS
-DURATION:PT1H
-LOCATION:Salle 1 - Tour IRMA
-DTSTART:20150528T073000Z
-SUMMARY:Gestion des exigences et de la dynamique de systèmes d'information ouverts\, distribués\, dynamiques et contraints. Cas de la Gouvernance d'une infrastructure Machine-to-Machine.
-UID:d3f436d5c3876d28b87c04a63cb0adbe@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Speaker: Adam Larat\nSeries: Modèles et Algorithmes Déterministes: EDP-MOISE-MGMI
@@ -3372,28 +3024,12 @@ SUMMARY:PDMP : un outil pour le suivi des patients
 UID:1d67b3fcd1948d5237dae5cef4cc4989@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Hermine Biermé\nSeries: Probabilités & Statistique
-DURATION:PT1H
-LOCATION:Salle 1 - Tour IRMA
-DTSTART:20151126T130000Z
-SUMMARY:(SEMINAIRE COMMUN LJK/IF:)Simulation de champs gaussiens anisotropes
-UID:a09df99b8a5a521324a81b325e31ec95@ljk-seminars
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Speaker: Joël Felderhoff\nSeries: AMAC: CASC
 DURATION:PT1H
 LOCATION:IMAG 306
 DTSTART:20251216T120000Z
 SUMMARY:A Gaussian Leftover Hash Lemma for Modules over Number Fields
 UID:2979331e7d6341cd85e6978351decf07@ljk-seminars
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Pablo MESEJO SANTIAGO\nSeries: Probabilités & Statistique
-DURATION:PT1H
-LOCATION:Salle 1 - Tour IRMA
-DTSTART:20150326T130000Z
-SUMMARY:Metaheuristics for model-based object segmentation
-UID:4a3951d2715be0bc441c06598a6e5ef2@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Speaker: Anatoli Iouditski\nSeries: Données et Aléatoire Théorie & Applications
@@ -3458,13 +3094,6 @@ LOCATION:Salle 106 - Batiment IMAG
 DTSTART:20171123T083000Z
 SUMMARY:Deux applications des codes localement décodables
 UID:d25000db8528c5bc77241ec4ba8e8eea@ljk-seminars
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Han Wang\nSeries: Modèles et Algorithmes Déterministes: EDP-MOISE-MGMI
-DURATION:PT1H
-DTSTART:20150129T094500Z
-SUMMARY:Shape Identification in electrolocation and echolocation.
-UID:2344d9258749bafa34b107f105ac5c8b@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Speaker: Ehouarn SIMON\nSeries: Modèles et Algorithmes Déterministes: EDP-MOISE-MGMI
@@ -3538,22 +3167,6 @@ SUMMARY:Une solution déterministe au 17e problème de Smale
 UID:8b0399cd3d961b476bdb877ca75a8c83@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Emeline PERTHAME\nSeries: Probabilités & Statistique
-DURATION:PT1H
-LOCATION:Salle 1 - Tour IRMA
-DTSTART:20151210T130000Z
-SUMMARY:Stabilité de la sélection de variables pour la régression et la classification de données corrélées en grande dimension
-UID:6f007d6a192fcaab0b452ff97c24ce0b@ljk-seminars
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Susanna Terracini\nSeries: Modèles et Algorithmes Déterministes: EDP-MOISE-MGMI
-DURATION:PT1H
-LOCATION:Salle 1 - Tour IRMA
-DTSTART:20150326T100000Z
-SUMMARY:Existence and regularity of solutions to optimal partition problems involving Laplacian eigenvalues
-UID:12dc3efa0465605d0a6deef2d635c3d2@ljk-seminars
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Speaker: Ahlame DOUZAL\nSeries: Probabilités & Statistique
 DURATION:PT1H
 LOCATION:Salle 106 - Batiment IMAG
@@ -3584,14 +3197,6 @@ LOCATION:Salle 106 - Batiment IMAG
 DTSTART:20161103T083000Z
 SUMMARY:Fast computation of normal forms of polynomial matrices
 UID:526b793b26b480e06d8e77226dd924fc@ljk-seminars
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Pierre Etoré\nSeries: Probabilités & Statistique
-DURATION:PT1H
-LOCATION:Salle 1 - Tour IRMA
-DTSTART:20150507T120000Z
-SUMMARY:Equations différentielles stochastiques unidimensionnelles inhomogènes en temps faisant intervenir le temps local du processus inconnu
-UID:abb36e79647d2f3b0c5089df488e0af4@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Speaker: Richard Huber\nSeries: AMAC: EDP-AIRSEA-CVGI
@@ -3640,14 +3245,6 @@ LOCATION:Salle 106
 DTSTART:20211125T130000Z
 SUMMARY:Analyse spectrale d’un modèle de l’évolution humaine
 UID:97ca90d6778f2458fcb0ef5ecad015f0@ljk-seminars
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Minh Binh Tran\nSeries: Modèles et Algorithmes Déterministes: EDP-MOISE-MGMI
-DURATION:PT1H
-LOCATION:Salle 1 - Tour IRMA
-DTSTART:20150312T100000Z
-SUMMARY:Nonlinear approximation theory for the homogeneous Boltzmann equation
-UID:eaaaa1a4f3339c756b99685abb353ccd@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Speaker: Stéphane Brull\nSeries: AMAC: EDP-AIRSEA-CVGI
@@ -3722,14 +3319,6 @@ SUMMARY:The Kim-McCann geometry for applied optimal transport
 UID:cc2cee5a8c906b892625ab7418bc026c@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Nhu DANG\nSeries: Probabilités & Statistique
-DURATION:PT1H
-LOCATION:Salle 1 - Tour IRMA
-DTSTART:20150430T120000Z
-SUMMARY:Estimation of the Hurst and stable indices of a H-self-similar stable process
-UID:1e967bdd9fabbb1c62a0f3bf5ef83070@ljk-seminars
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Speaker: Hamza Ennaji\nSeries: AMAC: EDP-AIRSEA-CVGI
 DURATION:PT1H
 LOCATION:IMAG 106
@@ -3785,22 +3374,6 @@ SUMMARY:Détection Multidimensionnelle au Test Paramétrique avec Recherche Auto
 UID:7aed205c48d51f7c1a62682aee641510@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Frédéric Prost\nSeries: Modèles et Algorithmes Déterministes: CASYS
-DURATION:PT1H
-LOCATION:Salle 2 - Tour IRMA
-DTSTART:20150604T080000Z
-SUMMARY:Social Data Anonymization and Graph Transformations.
-UID:48eceb0891690aef26366eba1c788250@ljk-seminars
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Raphaèle Herbin\nSeries: Modèles et Algorithmes Déterministes: EDP-MOISE-MGMI
-DURATION:PT1H
-LOCATION:Salle 1 - Tour IRMA
-DTSTART:20150521T090000Z
-SUMMARY:Une classe de schémas numériques pour les écoulements compressibles à tout nombre de Mach
-UID:5524e161cf4f0116b90a58573fc8ce50@ljk-seminars
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Speaker: Flaviana IURLANO\nSeries: Modèles et Algorithmes Déterministes: EDP-MOISE-MGMI
 DURATION:PT1H
 LOCATION:Salle 106 - Batiment IMAG
@@ -3846,14 +3419,6 @@ LOCATION:Salle 106 - Batiment IMAG
 DTSTART:20210204T083000Z
 SUMMARY:Bandwidth-efficient threshold EC-DSA\, extensions and enhanced security
 UID:209c68f3c000b539a9e150022271a7f9@ljk-seminars
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Samy TINDEL\nSeries: Probabilités & Statistique
-DURATION:PT1H
-LOCATION:Salle 1 - Tour IRMA
-DTSTART:20150319T130000Z
-SUMMARY:Représentations de Feynman-Kac pour l'équation de la chaleur stochastique
-UID:d32a4b90d654028984612a77e79fc1b2@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Speaker: Mathieu Rigal\nSeries: AMAC: EDP-AIRSEA-CVGI
@@ -4013,14 +3578,6 @@ SUMMARY:Transport optimal et ondelettes : nouveaux algorithmes et application à
 UID:b5e71c208e103ae9b9b2ae974aa3971a@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Vianney PERCHET\nSeries: Probabilités & Statistique
-DURATION:PT1H
-LOCATION:Salle 1 - Tour IRMA
-DTSTART:20151001T120000Z
-SUMMARY:Stochastic Bandit Optimization Theoretical vs (more) Realistic worlds ￼
-UID:81e9120a1f46ccbd362e112f7064d1e4@ljk-seminars
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Speaker: Taoufik Hmidi\nSeries: AMAC: EDP-AIRSEA-CVGI
 DURATION:PT1H
 LOCATION:Salle 106 - Batiment IMAG
@@ -4051,14 +3608,6 @@ LOCATION:Salle Jean-Marc Chassery au Gipsa-lab
 DTSTART:20241205T130000Z
 SUMMARY:Synthetic DNA: Shaping the Future of Data Archiving – Breakthroughs and Challenges
 UID:147ba9d2c181ff7e9bf37c5d2dd56b68@ljk-seminars
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Nicolas Goix\nSeries: Probabilités & Statistique
-DURATION:PT1H
-LOCATION:Salle 1 - Tour IRMA
-DTSTART:20151119T130000Z
-SUMMARY:Sparse Representation of Multivariate Extremes with Applications to Anomaly Ranking
-UID:bb9132a78a2fddb05666807dc5aac2e2@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Speaker: Alexandre Sedoglavic\nSeries: Modèles et Algorithmes Déterministes: CASYS
@@ -4140,14 +3689,6 @@ SUMMARY:Computing the Smith form with multipliers for a nonsingular integer matr
 UID:25ff55944e60ac0365394042ce5d04f5@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Jérémy Johnson\nSeries: Modèles et Algorithmes Déterministes: CASYS
-DURATION:PT1H
-LOCATION:Salle 1 - Tour IRMA
-DTSTART:20150611T073000Z
-SUMMARY:The Semantics of SPIRAL
-UID:f8ecc99b6f56f98c9d9c287cf21c83f7@ljk-seminars
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Speaker: Jairo Cugliari\nSeries: Données et Aléatoire Théorie & Applications
 DURATION:PT1H
 LOCATION:Salle 106
@@ -4195,14 +3736,6 @@ SUMMARY:Couches limites viscoplastiques : un dialogue HPC et expériences physiq
 UID:50aac1d45889ece5c67f16dc50fd9b51@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Frank Iutzeler\nSeries: Modèles et Algorithmes Déterministes: BIPOP
-DURATION:PT1H
-LOCATION:Salle 1 - Tour IRMA
-DTSTART:20150626T090000Z
-SUMMARY:Opérateurs monotones aléatoires et applications à l'optimisation distribuée
-UID:6325573db6c63234081a3d9dc1383c62@ljk-seminars
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Speaker: Xavier Pennec\nSeries: AMAC: EDP-AIRSEA-CVGI
 DURATION:PT1H
 LOCATION:Salle 106 - Batiment IMAG
@@ -4243,14 +3776,6 @@ SUMMARY:Random walks on (almost) six regular graphs as dynamics for the associat
 UID:8718d2cf58612e46f6b5d2dc680a5e02@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Nil VENET\nSeries: Probabilités & Statistique
-DURATION:PT1H
-LOCATION:Salle 1 - Tour IRMA
-DTSTART:20150312T130000Z
-SUMMARY:Champs Browniens fractionnaires indexés par des variétés à au moins une géodésique fermée
-UID:0a72cb7dc92936b7dbc74b96e0e1ecfc@ljk-seminars
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Speaker: Pascal Giorgi\nSeries: Modèles et Algorithmes Déterministes: CASYS
 DURATION:PT1H
 LOCATION:Salle 106 - Batiment IMAG
@@ -4267,28 +3792,12 @@ SUMMARY:Schémas préservant l’asymptotique bas-Mach pour Euler
 UID:06c9aab70a7e8c539799924320095e70@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Pierre Fernique\nSeries: Probabilités & Statistique
-DURATION:PT1H
-LOCATION:Salle 1 - Tour IRMA
-DTSTART:20150115T130000Z
-SUMMARY:Un cadre de modélisation statistique pour l'analyse de données indexées par des arborescences
-UID:7a9d81de95929b4c17003d77aec1d978@ljk-seminars
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Speaker: Tiago Picon\nSeries: AMAC: EDP-AIRSEA-CVGI
 DURATION:PT1H
 LOCATION:Salle 106 - Batiment IMAG
 DTSTART:20200220T100000Z
 SUMMARY:Hardy-Littlewood-Sobolev inequalities for homogeneous differential operators
 UID:8f6b8029b2bd2068b3d9095d0a14c3c5@ljk-seminars
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Blanche Buet\nSeries: Modèles et Algorithmes Déterministes: EDP-MOISE-MGMI
-DURATION:PT1H
-LOCATION:Salle 1 - Tour IRMA
-DTSTART:20151022T090000Z
-SUMMARY:Approximation de surfaces par des varifolds discrets
-UID:c5854457abbc1bedfff30b80c25a6150@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Speaker: SCALDE\nSeries: Données et Aléatoire Théorie & Applications
@@ -4313,14 +3822,6 @@ LOCATION:IMAG 106
 DTSTART:20251009T073000Z
 SUMMARY:Cyclicité du groupe de points rationnels de variétés abéliennes sur des corps finis et polynômes à coefficients entiers
 UID:bd35ad1be9d9e916b19578d3e3069ad4@ljk-seminars
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Alexis Arnaud\nSeries: Probabilités & Statistique
-DURATION:PT1H
-LOCATION:Salle 1 - Tour IRMA
-DTSTART:20150521T120000Z
-SUMMARY:Mélanges de lois de Student à Échelles Multiples : application à la caractérisation de tumeurs par IRM multiparamétrique
-UID:6e36ba34e25e8ab0aae0872b2d3944f6@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Speaker: Arnaud Sengers\nSeries: Doctorants
@@ -4353,44 +3854,20 @@ SUMMARY:Time reversal and other phenomena in graphene plasmons
 UID:02bff85f4ad95ba5f0ead6ad87d5ae89@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Unknown\nSeries: Modèles et Algorithmes Déterministes: EDP
-DURATION:PT1H
-LOCATION:Salle 1 - Tour IRMA
-DTSTART:20150625T070000Z
-SUMMARY:Assemblée Générale MAD - Circus
-UID:6c1bc774c8f088772914cbc4319aadd4@ljk-seminars
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Unknown\nSeries: Modèles et Algorithmes Déterministes: MODANT
-DURATION:PT1H
-LOCATION:Salle 1 - Tour IRMA
-DTSTART:20150625T070000Z
-SUMMARY:Assemblée Générale MAD - Circus
-UID:6c1bc774c8f088772914cbc4319aadd4@ljk-seminars
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Unknown\nSeries: Modèles et Algorithmes Déterministes: BIPOP
-DURATION:PT1H
-LOCATION:Salle 1 - Tour IRMA
-DTSTART:20150625T070000Z
-SUMMARY:Assemblée Générale MAD - Circus
-UID:6c1bc774c8f088772914cbc4319aadd4@ljk-seminars
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Unknown\nSeries: Modèles et Algorithmes Déterministes
-DURATION:PT1H
-LOCATION:Salle 1 - Tour IRMA
-DTSTART:20150625T070000Z
-SUMMARY:Assemblée Générale MAD - Circus
-UID:6c1bc774c8f088772914cbc4319aadd4@ljk-seminars
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Speaker: Rémy Drouilhet\nSeries: Données et Aléatoire Théorie & Applications
 DURATION:PT1H
 LOCATION:Zoom - https://videos.univ-grenoble-alpes.fr/video/19939-seminaire-ljk-17-06-21-remy-drouilhet/
 DTSTART:20210617T120000Z
 SUMMARY:Introduction à Julia
 UID:2510fb35395adf9cf8842f1bc953a538@ljk-seminars
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Magali Richard\nSeries: Données et Aléatoire Théorie & Applications
+DURATION:PT1H
+LOCATION:Salle 106
+DTSTART:20260312T130000Z
+SUMMARY:Statistical and computational methods for the analysis of tumor heterogeneity
+UID:6907d9736a7bc1423b8706f4a71120cd@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Speaker: Pierre Etoré\nSeries: Probabilités & Statistique
@@ -4470,14 +3947,6 @@ LOCATION:Salle 1 - Tour IRMA
 DTSTART:20160428T090000Z
 SUMMARY:Transport optimal avec contraintes : généralités et progrès récents
 UID:42ffc55ae3ac26402853092184984b7d@ljk-seminars
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Charlotte Perrin\nSeries: Modèles et Algorithmes Déterministes: EDP-MOISE-MGMI
-DURATION:PT1H
-LOCATION:Salle 2 - Tour IRMA
-DTSTART:20150409T090000Z
-SUMMARY:Prise en compte d'hétérogénéités pour des systèmes de congestion macroscopique.
-UID:68729fbc40eb36e15791fb277a493af0@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Speaker: François PORTIER\nSeries: Probabilités & Statistique
@@ -4647,14 +4116,6 @@ SUMMARY:Inférence de réseaux pour les données RNA-seq
 UID:4f4f33bceb89d483c1014c7776c35a40@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Antoine Girard\nSeries: Modèles et Algorithmes Déterministes: CASYS
-DURATION:PT1H
-LOCATION:Salle 1 - Tour IRMA
-DTSTART:20150917T073000Z
-SUMMARY:A symbolic control approach to the design of cyber-physical systems
-UID:814158cc60e213a831e5403848a46c71@ljk-seminars
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Speaker: Tâm Le Minh\nSeries: Données et Aléatoire Théorie & Applications
 DURATION:PT1H
 LOCATION:Salle 106
@@ -4727,14 +4188,6 @@ SUMMARY:Portfolio optimization under CV@R constraint with stochastic mirror desc
 UID:a6db5890eb328b9442750fab9ba46f7e@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Didier Bresch\nSeries: Modèles et Algorithmes Déterministes: MODANT
-DURATION:PT1H
-LOCATION:Salle 1 - Tour IRMA
-DTSTART:20150527T091500Z
-SUMMARY:Circulations océaniques : théories et observations (2/2)
-UID:ff7d754cd628733ea18f00c620466252@ljk-seminars
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Speaker: Aurélien Garivier\nSeries: Données et Aléatoire Théorie & Applications
 DURATION:PT1H
 LOCATION:Salle 106
@@ -4771,14 +4224,6 @@ LOCATION:Salle 106 - Batiment IMAG
 DTSTART:20161201T083000Z
 SUMMARY:Programmation orientée interaction
 UID:2df413b77889cd6c6f56b357373c52aa@ljk-seminars
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Sylvain Meignen -- Edouard Oudet\nSeries: Modèles et Algorithmes Déterministes: EDP-MOISE-MGMI
-DURATION:PT1H
-LOCATION:Salle 1 - Tour IRMA
-DTSTART:20150910T090000Z
-SUMMARY:1ère partie : Nonlinear and Nonseparable Bidimensional Multiscale Representation Based on Cell-Average Representation / 2ème partie : Méthodes de relaxation en optimisation géométrique
-UID:256b78dc9b5f9c0205bad8d83d246787@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Speaker: Mariia Vladimirova\nSeries: Doctorants
@@ -4891,14 +4336,6 @@ SUMMARY:Lattice-Based Group Signatures in the Standard Mode
 UID:c260f990309e48403c20a52d964d416a@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Anthony NOUY\nSeries: Modèles et Algorithmes Déterministes: EDP-MOISE-MGMI
-DURATION:PT1H
-LOCATION:Salle 1 - Tour IRMA
-DTSTART:20151203T100000Z
-SUMMARY:Preconditioners for parameter-dependent equations and projection-based model order reduction methods
-UID:1a8edae324579bf7a00f071a766dab53@ljk-seminars
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Speaker: Clément Pernet\nSeries: Modèles et Algorithmes Déterministes: CASYS
 DURATION:PT1H
 LOCATION:Salle 106 - Batiment IMAG
@@ -4921,14 +4358,6 @@ LOCATION:IMAG 106
 DTSTART:20221208T103000Z
 SUMMARY:Phénomène de concentration dans une équation de Lotka-Volterra parabolique : un schéma multi-échelle
 UID:64bfbb758a3d7f67ffa318c8dc291e15@ljk-seminars
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Sylvain Sardy\nSeries: Probabilités & Statistique
-DURATION:PT1H
-LOCATION:Salle 1 - Tour IRMA
-DTSTART:20150305T130000Z
-SUMMARY:A new selection of the lasso parameter for model selection\, with applications in Cosmology and Cancer research
-UID:69fcae8f53813dd21b26b2a1220d412d@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Speaker: Fabrice Mouhartem\nSeries: AMAC: CASC
@@ -5043,14 +4472,6 @@ SUMMARY:The Faber-Krahn inequality for the Stokes operator
 UID:c564cb3e9f27e36cab50d9273534ec47@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Loren COQUILLE\nSeries: Probabilités & Statistique
-DURATION:PT1H
-LOCATION:Salle 1 - Tour IRMA
-DTSTART:20150917T120000Z
-SUMMARY:(SEMINAIRE COMMUN LJK/IF:) Une approche stochastique à la modélisation de l'immunothérapie contre le cancer
-UID:a40c8aa5cc80329e63944b25b243569a@ljk-seminars
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Speaker: Robin Ryder\nSeries: Données et Aléatoire Théorie & Applications
 DURATION:PT1H
 LOCATION:IMAG Salle de Séminaire 2
@@ -5112,14 +4533,6 @@ LOCATION:Salle 106 - Batiment IMAG
 DTSTART:20170302T083000Z
 SUMMARY:Méthodes algébriques pour le contrôle optimal en Imagerie à Résonance Magnétique
 UID:3ef5db4794ce42b3ed1719a6cf37749f@ljk-seminars
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Roland Masson\nSeries: Modèles et Algorithmes Déterministes: EDP-MOISE-MGMI
-DURATION:PT1H
-LOCATION:Salle 1 - Tour IRMA
-DTSTART:20150226T100000Z
-SUMMARY:Gradient scheme discretizations of two-phase porous media flows in fractured porous media
-UID:b939ea320f855b011345d2e76e6ae526@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Speaker: Romain Joly\nSeries: AMAC: EDP-AIRSEA-CVGI
@@ -5234,14 +4647,6 @@ SUMMARY:L'équation de Cahn-Hilliard avec un terme source
 UID:1b33fe6413e2d244ad9b6600f9c05a45@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Rafael Vazquez\nSeries: Modèles et Algorithmes Déterministes: EDP-MOISE-MGMI
-DURATION:PT1H
-LOCATION:Salle 2 - Tour IRMA
-DTSTART:20150122T143000Z
-SUMMARY:Isogeometric discrete differential forms: definition for B-splines and hierarchical splines
-UID:ed6a5b128d3f25e216fdeae2e5e23c3f@ljk-seminars
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Speaker: Mounia Zaouche\nSeries: Probabilités & Statistique
 DURATION:PT1H
 LOCATION:Salle 106 - Batiment IMAG
@@ -5335,14 +4740,6 @@ LOCATION:Salle 106 - Batiment IMAG
 DTSTART:20191024T120000Z
 SUMMARY:A Bayesian non-parametric methodology for inferring grammar complexity
 UID:e3b37398f4f44c390f05d1b90608ace9@ljk-seminars
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Karteek Alahari\nSeries: Probabilités & Statistique
-DURATION:PT1H
-LOCATION:Salle 1 - Tour IRMA
-DTSTART:20150226T130000Z
-SUMMARY:Random Field Models for Visual Scene Understanding
-UID:01a663ec5deb9de63cfe5cea110c80e1@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Speaker: Jean-Baptiste Orfila\nSeries: Modèles et Algorithmes Déterministes: CASYS
@@ -5441,13 +4838,6 @@ SUMMARY:Application of optimal transport to the computation of Wasserstein gradi
 UID:a0ae0771c002008abe4afe93cb103e35@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Antoine Joux\nSeries: Modèles et Algorithmes Déterministes: CASYS
-DURATION:PT1H
-DTSTART:20150129T084500Z
-SUMMARY:Logarithmes discrets en petite caractéristique (algorithme simplifié)
-UID:b3fd2b43dc1a544f1805efa239c0f235@ljk-seminars
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Speaker: DATA\nSeries: Données et Aléatoire Théorie & Applications
 DURATION:PT1H
 LOCATION:Salle A103 (INRIA Montbonnot) - https://www-ljk.imag.fr/membres/Julien.Chevallier/seminaire.html
@@ -5518,13 +4908,5 @@ LOCATION:Salle 106 - Batiment IMAG
 DTSTART:20181025T090000Z
 SUMMARY:Modèles hiérarchiques bayésiens pour la reconstruction de sources acoustiques
 UID:3321e4dfd56157f7b4c3a694dedd8c01@ljk-seminars
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Nelson FEYEUX\nSeries: Doctorants
-DURATION:PT1H
-LOCATION:Salle 1 - Tour IRMA
-DTSTART:20151020T130000Z
-SUMMARY:Transport optimal pour assimilation de données images
-UID:ef357db60ba360814ab4615c606ad4f1@ljk-seminars
 END:VEVENT
 END:VCALENDAR
