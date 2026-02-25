@@ -240,7 +240,7 @@ DESCRIPTION:Speaker: Davide Giraudo\nSeries: Données et Aléatoire Théorie & A
 DURATION:PT1H
 LOCATION:Salle 106
 DTSTART:20260402T120000Z
-SUMMARY:TBA
+SUMMARY:Détection de rupture dans un échantillon de loi de type Pareto via une U-statistique
 UID:c33669b58dabcfd4cc50daa7dda3b53d@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
@@ -463,7 +463,7 @@ DESCRIPTION:Speaker: Marc Lambert\nSeries: AMAC: EDP-AIRSEA-CVGI
 DURATION:PT1H
 LOCATION:IMAG 106
 DTSTART:20260305T103000Z
-SUMMARY:TBA
+SUMMARY:Gaussian interacting particles via Wasserstein gradient flow
 UID:7c02b5322cf4d33daa69e4f3aaa258db@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
@@ -1474,6 +1474,14 @@ LOCATION:Salle 106 - Batiment IMAG
 DTSTART:20200213T140000Z
 SUMMARY:An Adaptive Decorrelation Procedure for Signal Detection
 UID:7148099e2485dc870f439e0bdbd373b7@ljk-seminars
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Emilie Chouzenoux\nSeries: Données et Aléatoire Théorie & Applications
+DURATION:PT1H
+LOCATION:Salle Séminaire 2
+DTSTART:20260326T130000Z
+SUMMARY:Unrolled Majorization-Minimization Approaches for Sparse Signal Reconstruction in Analytical Chemistry
+UID:860fa71961633b31b0f759802ef63806@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Speaker: Mathurin Massias\nSeries: Données et Aléatoire Théorie & Applications
@@ -3247,6 +3255,14 @@ SUMMARY:Analyse spectrale d’un modèle de l’évolution humaine
 UID:97ca90d6778f2458fcb0ef5ecad015f0@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Speaker: Alexander Reisach\nSeries: Données et Aléatoire Théorie & Applications
+DURATION:PT1H
+LOCATION:Salle 106
+DTSTART:20260319T130000Z
+SUMMARY:The Case for Time in Causal DAGs
+UID:0dcce4ced41ea270bba294acdb6281e9@ljk-seminars
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Speaker: Stéphane Brull\nSeries: AMAC: EDP-AIRSEA-CVGI
 DURATION:PT1H
 LOCATION:IMAG 106
@@ -4677,6 +4693,14 @@ LOCATION:Salle 106 - Batiment IMAG
 DTSTART:20161208T100000Z
 SUMMARY:Data-driven wildfire behavior modeling: Focus on front shape similarity measure for data assimilation
 UID:a4b1fc1578f69e94e9c18ffe4f7a7ce6@ljk-seminars
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Rémi Gribonval\nSeries: Données et Aléatoire Théorie & Applications
+DURATION:PT1H
+LOCATION:Auditorium IMAG
+DTSTART:20260305T130000Z
+SUMMARY:Training dynamics of ReLU Networks: a Path-lifting Perspective
+UID:d05d5dcfd24df20e999fd6e0102bfeac@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Speaker: Guillaume Dalle\nSeries: Données et Aléatoire Théorie & Applications
