@@ -4021,6 +4021,14 @@ SUMMARY:Méthodes numériques adaptatives pour la simulation de matière non col
 UID:b15eb6a795d4091359fc0f003d92ab84@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Speaker: Julie Binard\nSeries: AMAC: EDP-AIRSEA-CVGI
+DURATION:PT1H
+LOCATION:IMAG 106
+DTSTART:20260326T103000Z
+SUMMARY:TBA
+UID:956b0692fa5fee30c858ead104acecbd@ljk-seminars
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Speaker: Joseph Salmon\nSeries: Données et Aléatoire Théorie & Applications
 DURATION:PT1H
 LOCATION:Salle séminaire 2 (rdc)
