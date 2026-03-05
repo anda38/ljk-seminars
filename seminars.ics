@@ -3112,6 +3112,14 @@ SUMMARY:Vers l'estimation de matrices de covariance d'erreur de prévision pour 
 UID:de95a40b6a83b8ade277f9b1f925017d@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Speaker: Dominique Duval\nSeries: AMAC: CASC
+DURATION:PT1H
+LOCATION:IMAG 106
+DTSTART:20260324T083000Z
+SUMMARY:Esquisser les bases de données
+UID:c0fdf95a30b6242b9207b0bbf898c96d@ljk-seminars
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Speaker: Igor GEJADZE\nSeries: Modèles et Algorithmes Déterministes: EDP-MOISE-MGMI
 DURATION:PT1H
 LOCATION:Salle 106 - Batiment IMAG
@@ -3223,12 +3231,12 @@ SUMMARY:(SEMINAIRE COMMUN LJK/IF:) Au bord de systèmes de particules en interac
 UID:bd34278ce308f492eae0f4686294150a@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Laurent Condat\nSeries: Modèles et Algorithmes Déterministes: EDP-MOISE-MGMI
+DESCRIPTION:Speaker: Gianira Alfarano\nSeries: AMAC: CASC
 DURATION:PT1H
-LOCATION:Salle 106 - Batiment IMAG
-DTSTART:20160616T090000Z
-SUMMARY:Joint seminar CVGI - OGRE - Discrete Total Variation: New Definition and Minimization
-UID:e548924f7637ef60be304094b29b3abb@ljk-seminars
+LOCATION:IMAG 106
+DTSTART:20260507T073000Z
+SUMMARY:TBA
+UID:245b7e3f64ea98aabebfd06721645e45@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Speaker: Romain COUILLET\nSeries: Données et Aléatoire Théorie & Applications
@@ -3237,6 +3245,14 @@ LOCATION:Salle 106 - Batiment IMAG
 DTSTART:20200116T130000Z
 SUMMARY:Can random matrices change the future of machine learning?
 UID:67ecb390f9cf9932632a8359ab8072e1@ljk-seminars
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Laurent Condat\nSeries: Modèles et Algorithmes Déterministes: EDP-MOISE-MGMI
+DURATION:PT1H
+LOCATION:Salle 106 - Batiment IMAG
+DTSTART:20160616T090000Z
+SUMMARY:Joint seminar CVGI - OGRE - Discrete Total Variation: New Definition and Minimization
+UID:e548924f7637ef60be304094b29b3abb@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Speaker: Margaux Zaffran\nSeries: Données et Aléatoire Théorie & Applications
