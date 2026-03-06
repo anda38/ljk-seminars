@@ -649,6 +649,14 @@ SUMMARY:Equivariant Geometric Deep Learning and Applications to Life Sciences
 UID:c774aad674bc2b9970e7950f9965a404@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Speaker: Guillaume Carlier\nSeries: AMAC: EDP-AIRSEA-CVGI
+DURATION:PT1H
+LOCATION:IMAG 106
+DTSTART:20260521T093000Z
+SUMMARY:TBA
+UID:9b91c8d7dad7100cad9c44fc61c91177@ljk-seminars
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Speaker: Dung Ngoc Nguyen\nSeries: Données et Aléatoire Théorie & Applications
 DURATION:PT1H
 LOCATION:Salle 106
@@ -1122,7 +1130,7 @@ DESCRIPTION:Speaker: Joel Ignacio Fierro Ulloa\nSeries: AMAC: EDP-AIRSEA-CVGI
 DURATION:PT1H
 LOCATION:IMAG 106
 DTSTART:20260312T103000Z
-SUMMARY:TBA
+SUMMARY:Modelling of Microbial Ecosystems
 UID:b22d88aa60caebe40a3c5ffcf0515f50@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
