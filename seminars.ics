@@ -2705,6 +2705,14 @@ SUMMARY:Estimer l'aire du bord d'une forme grâce à l'homologie persistante
 UID:5e9791d5a5af3d48e9269eb4b8434b1a@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Speaker: Gianira Alfarano\nSeries: AMAC: CASC
+DURATION:PT1H
+LOCATION:IMAG 106
+DTSTART:20260430T073000Z
+SUMMARY:TBA
+UID:fd489cca37c5cf411a6cb7977b40c1da@ljk-seminars
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Speaker: François Munoz\nSeries: Probabilités & Statistique
 DURATION:PT1H
 LOCATION:Salle 106 - Batiment IMAG
@@ -3239,12 +3247,12 @@ SUMMARY:(SEMINAIRE COMMUN LJK/IF:) Au bord de systèmes de particules en interac
 UID:bd34278ce308f492eae0f4686294150a@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Gianira Alfarano\nSeries: AMAC: CASC
+DESCRIPTION:Speaker: Laurent Condat\nSeries: Modèles et Algorithmes Déterministes: EDP-MOISE-MGMI
 DURATION:PT1H
-LOCATION:IMAG 106
-DTSTART:20260507T073000Z
-SUMMARY:TBA
-UID:245b7e3f64ea98aabebfd06721645e45@ljk-seminars
+LOCATION:Salle 106 - Batiment IMAG
+DTSTART:20160616T090000Z
+SUMMARY:Joint seminar CVGI - OGRE - Discrete Total Variation: New Definition and Minimization
+UID:e548924f7637ef60be304094b29b3abb@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Speaker: Romain COUILLET\nSeries: Données et Aléatoire Théorie & Applications
@@ -3253,14 +3261,6 @@ LOCATION:Salle 106 - Batiment IMAG
 DTSTART:20200116T130000Z
 SUMMARY:Can random matrices change the future of machine learning?
 UID:67ecb390f9cf9932632a8359ab8072e1@ljk-seminars
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Laurent Condat\nSeries: Modèles et Algorithmes Déterministes: EDP-MOISE-MGMI
-DURATION:PT1H
-LOCATION:Salle 106 - Batiment IMAG
-DTSTART:20160616T090000Z
-SUMMARY:Joint seminar CVGI - OGRE - Discrete Total Variation: New Definition and Minimization
-UID:e548924f7637ef60be304094b29b3abb@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Speaker: Margaux Zaffran\nSeries: Données et Aléatoire Théorie & Applications
