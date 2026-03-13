@@ -1313,7 +1313,7 @@ DESCRIPTION:Speaker: Geoffrey Lacour\nSeries: AMAC: EDP-AIRSEA-CVGI
 DURATION:PT1H
 LOCATION:IMAG 106
 DTSTART:20260319T103000Z
-SUMMARY:TBA
+SUMMARY:Étude d'un modèle de transition de phase pour le stockage de l'énergie thermique
 UID:ff45b539524942d71ab713945696fc13@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
@@ -2639,6 +2639,14 @@ LOCATION:Salle 106 - Batiment IMAG
 DTSTART:20180125T130000Z
 SUMMARY:Heritability estimation in high-dimensional sparse linear mixed models
 UID:48cf61d69f5e8998b1b3894c99b0a384@ljk-seminars
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Vivien Fisch-Romito\nSeries: STEEP
+DURATION:PT1H
+LOCATION:Inria\, Montbonnot\, salle F107
+DTSTART:20260317T093000Z
+SUMMARY:Towards a better integration of transition dynamics and sufficiency in low-carbon scenarios
+UID:6663d8a63baddc78e5a7ccf8c1c7b381@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Speaker: Stéphane Popinet\nSeries: Modèles et Algorithmes Déterministes: EDP-MOISE-MGMI
