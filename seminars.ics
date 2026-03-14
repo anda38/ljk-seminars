@@ -3303,6 +3303,14 @@ SUMMARY:Schémas BGK discrets pour le système d'Euler bitempérature et applica
 UID:cc035fe56039e07c0a5fe489cb0e44f1@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Speaker: Antoine Cordoba\nSeries: STEEP
+DURATION:PT1H
+LOCATION:Inria\, Montbonnot\, salle F107
+DTSTART:20260326T090000Z
+SUMMARY:World3 Dynamics
+UID:a99161dcdfe6675312c19c3cd22b9944@ljk-seminars
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Speaker: Marylou Gabrie\nSeries: Données et Aléatoire Théorie & Applications
 DURATION:PT1H
 LOCATION:Salle 106
