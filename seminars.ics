@@ -148,6 +148,14 @@ SUMMARY:Régression linéaire bayésienne sur données fonctionnelles
 UID:5457e0bd7ac11b682c39bfff69809487@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Speaker: Hoang  Mai\nSeries: Données et Aléatoire Théorie & Applications
+DURATION:PT1H
+LOCATION:Salle 106
+DTSTART:20260618T120000Z
+SUMMARY:On the Metric Subregularity for Cyclic Projections via Quotient Spaces and Tangential Approximations
+UID:67133f4a7a6120f8a52fc3f516bb4a79@ljk-seminars
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Speaker: Madalina Olteanu\nSeries: Données et Aléatoire Théorie & Applications
 DURATION:PT1H
 LOCATION:Salle 106 - Batiment IMAG
