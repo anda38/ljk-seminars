@@ -1246,12 +1246,12 @@ SUMMARY:Forme variationnelle de la mollification: un tour d'horizon
 UID:19856c1d22e49be3a7e00dd28831aa89@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Benjamin Ivorra\nSeries: Modèles et Algorithmes Déterministes: EDP-MOISE-MGMI
+DESCRIPTION:Speaker: Martin Uhrin\nSeries: Données et Aléatoire Théorie & Applications
 DURATION:PT1H
-LOCATION:Salle 2 - Tour IRMA
-DTSTART:20160407T090000Z
-SUMMARY:Modeling\, Simulation and Optimization of a Polluted Water Pumping Process in Open Sea.  Validation Considering the Prestige and Oleg Naydenov Oil Spill Cases
-UID:d66098a51117e812e1ae0a5ef141b0ab@ljk-seminars
+LOCATION:Salle 106
+DTSTART:20260423T120000Z
+SUMMARY:Differentiable Foundations for Symmetry-Aware Materials Discovery: From Lie Groups to Inverse Design
+UID:7f51999a328f4f83d1919dd9c3598e0c@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Speaker: Pierre Gaillard\nSeries: Données et Aléatoire Théorie & Applications
@@ -1268,6 +1268,14 @@ LOCATION:Salle 106 - Batiment IMAG
 DTSTART:20170406T073000Z
 SUMMARY:Avancés récentes sur le calcul de collisions pour SHA-1
 UID:c21922ded92fbb0aa65c8c212b8345c7@ljk-seminars
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Benjamin Ivorra\nSeries: Modèles et Algorithmes Déterministes: EDP-MOISE-MGMI
+DURATION:PT1H
+LOCATION:Salle 2 - Tour IRMA
+DTSTART:20160407T090000Z
+SUMMARY:Modeling\, Simulation and Optimization of a Polluted Water Pumping Process in Open Sea.  Validation Considering the Prestige and Oleg Naydenov Oil Spill Cases
+UID:d66098a51117e812e1ae0a5ef141b0ab@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Speaker: Unknown\nSeries: Probabilités & Statistique
@@ -4081,7 +4089,7 @@ DESCRIPTION:Speaker: Julie Binard\nSeries: AMAC: EDP-AIRSEA-CVGI
 DURATION:PT1H
 LOCATION:IMAG 106
 DTSTART:20260326T103000Z
-SUMMARY:TBA
+SUMMARY:Un modèle d'écoulement de lave multiphasique
 UID:956b0692fa5fee30c858ead104acecbd@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
