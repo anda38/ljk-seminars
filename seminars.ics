@@ -3493,6 +3493,14 @@ SUMMARY:Bandwidth-efficient threshold EC-DSA\, extensions and enhanced security
 UID:209c68f3c000b539a9e150022271a7f9@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Speaker: Shahin Gelareh\nSeries: STEEP
+DURATION:PT1H
+LOCATION:Inria\, Montbonnot\, salle F107 (petit amphi)
+DTSTART:20260331T083000Z
+SUMMARY:Algorithmes de décomposition augmentés par l’apprentissage pour l’optimisation en nombres entiers mixtes à grande échelle
+UID:9856d1342c0f071f92d9a9b524f83e1b@ljk-seminars
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Speaker: Mathieu Rigal\nSeries: AMAC: EDP-AIRSEA-CVGI
 DURATION:PT1H
 LOCATION:IMAG 106
