@@ -1118,6 +1118,14 @@ SUMMARY:Certified lattice reduction\, with a view towards algebraic number theor
 UID:a14401a1f4ba70c1395a4416821b83ff@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Speaker: Camille Labourie\nSeries: AMAC: EDP-AIRSEA-CVGI
+DURATION:PT1H
+LOCATION:IMAG 106
+DTSTART:20260430T093000Z
+SUMMARY:TBA
+UID:45a3553784ed0e4ae7a18c3b0da05aca@ljk-seminars
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Speaker: Bruno Grenet\nSeries: AMAC: CASC
 DURATION:PT1H
 LOCATION:IMAG 106
@@ -1126,20 +1134,20 @@ SUMMARY:Sparse polynomial arithmetic
 UID:bfc21f152361335a9bcd9014c41c27e1@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Anne Estrade\nSeries: Probabilités & Statistique
-DURATION:PT1H
-LOCATION:Salle 106 - Batiment IMAG
-DTSTART:20171116T130000Z
-SUMMARY:Test de normalité basé sur la caractéristique d'Euler des ensembles d'excursion
-UID:4a9daa3084d2e4e7de67b330f702a57a@ljk-seminars
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Speaker: Joel Ignacio Fierro Ulloa\nSeries: AMAC: EDP-AIRSEA-CVGI
 DURATION:PT1H
 LOCATION:IMAG 106
 DTSTART:20260312T103000Z
 SUMMARY:Modelling of Microbial Ecosystems
 UID:b22d88aa60caebe40a3c5ffcf0515f50@ljk-seminars
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Anne Estrade\nSeries: Probabilités & Statistique
+DURATION:PT1H
+LOCATION:Salle 106 - Batiment IMAG
+DTSTART:20171116T130000Z
+SUMMARY:Test de normalité basé sur la caractéristique d'Euler des ensembles d'excursion
+UID:4a9daa3084d2e4e7de67b330f702a57a@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Speaker: Vincent Neiger\nSeries: AMAC: CASC
