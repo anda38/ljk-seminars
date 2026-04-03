@@ -3271,6 +3271,14 @@ SUMMARY:The Range of Projection Pair Operators
 UID:4a5fe7424bd308188fa07889afa4d485@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Speaker: Franck Picard\nSeries: Données et Aléatoire Théorie & Applications
+DURATION:PT1H
+LOCATION:Salle Séminaire 2
+DTSTART:20260507T120000Z
+SUMMARY:Kernel-based perturbation testing for single-cell data
+UID:62b1fad648205bd68a518324af8094f5@ljk-seminars
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Speaker: Djalil CHAFAI\nSeries: Probabilités & Statistique
 DURATION:PT1H
 LOCATION:Salle 1 - Tour IRMA
