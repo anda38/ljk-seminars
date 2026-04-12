@@ -3617,7 +3617,7 @@ DESCRIPTION:Speaker: Bastien GROSSE\nSeries: AMAC: EDP-AIRSEA-CVGI
 DURATION:PT1H
 LOCATION:IMAG 106
 DTSTART:20260416T093000Z
-SUMMARY:TBA
+SUMMARY:Well-posedness of the Vlasov-Poisson system with floating potential at a wall
 UID:245f7e0755eef3de93c8be0b595e224d@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
