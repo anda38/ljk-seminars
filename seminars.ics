@@ -4584,6 +4584,14 @@ SUMMARY:The Faber-Krahn inequality for the Stokes operator
 UID:c564cb3e9f27e36cab50d9273534ec47@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Speaker: Christophe Dutang\nSeries: Données et Aléatoire Théorie & Applications
+DURATION:PT1H
+LOCATION:Salle 106
+DTSTART:20260625T120000Z
+SUMMARY:Ajustement et sélection de lois de probabilité en R et Julia
+UID:342e260d84a537f8fff4e236575187dd@ljk-seminars
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Speaker: Robin Ryder\nSeries: Données et Aléatoire Théorie & Applications
 DURATION:PT1H
 LOCATION:IMAG Salle de Séminaire 2
