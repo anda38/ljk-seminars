@@ -419,6 +419,14 @@ SUMMARY:Estimation par densités prédictives : résultats récents
 UID:ca97803db861703eb45cff9a004dbea8@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Speaker: doctorant.e.s du département DATA (et associés)\nSeries: Données et Aléatoire Théorie & Applications
+DURATION:PT1H
+LOCATION:MaCI
+DTSTART:20260521T113000Z
+SUMMARY:Demi-journée des doctorant.e.s du département DATA
+UID:d3fd59655cffb5285d05631b5c37a9aa@ljk-seminars
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Speaker: Emilie DEVIJVER\nSeries: Probabilités & Statistique
 DURATION:PT1H
 LOCATION:Salle 1 - Tour IRMA
