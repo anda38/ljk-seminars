@@ -2617,6 +2617,14 @@ SUMMARY:Dégroébnérisation: théorie et applications
 UID:4a81bbd392922320a12a53adf735f53a@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Speaker: Nicolas Baradel\nSeries: Données et Aléatoire Théorie & Applications
+DURATION:PT1H
+LOCATION:Salle 106
+DTSTART:20260528T120000Z
+SUMMARY:Modélisation en temps continu et bootstrap pour le provisionnement par la méthode chain-ladder
+UID:67f66760b42457a7589b96809db8862c@ljk-seminars
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Speaker: Luiz Chamon\nSeries: Données et Aléatoire Théorie & Applications
 DURATION:PT1H
 LOCATION:Auditorium IMAG
