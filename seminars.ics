@@ -1333,6 +1333,14 @@ SUMMARY:Exploring Crypto Dark Matter: New Candidate PRFs and their Applications
 UID:5da8470853f082fb1671840ddd1fd4b5@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Speaker: Julian Tachella\nSeries: Données et Aléatoire Théorie & Applications
+DURATION:PT1H
+LOCATION:Salle séminaire 2
+DTSTART:20260611T120000Z
+SUMMARY:Self-supervised learning from noisy data
+UID:765b857bfbe43b46b495bfd86ddd65e1@ljk-seminars
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Speaker: Geoffrey Lacour\nSeries: AMAC: EDP-AIRSEA-CVGI
 DURATION:PT1H
 LOCATION:IMAG 106
