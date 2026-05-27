@@ -2857,6 +2857,14 @@ SUMMARY:Présentation du réseau Mathrice et de la plate-forme en ligne pour les
 UID:7482f936843f32cfb67e36e644a5b68b@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Speaker: Maxime Ingremeau\nSeries: AMAC: EDP-AIRSEA-CVGI
+DURATION:PT1H
+LOCATION:IMAG 106
+DTSTART:20260611T093000Z
+SUMMARY:Une approche microlocale à la résolution numérique de l’équation de Helmholtz
+UID:06816ee222dc554a3d266c53fb54ced7@ljk-seminars
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Speaker: Olivier Zahm\nSeries: Probabilités & Statistique
 DURATION:PT1H
 LOCATION:Salle 106 - Batiment IMAG
