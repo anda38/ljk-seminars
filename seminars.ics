@@ -2419,6 +2419,14 @@ SUMMARY:Introduction aux schémas de différences finies non standards
 UID:4730d3a6c63a3de0a4f65b280e1d2bb2@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Speaker: Michele Filippone\nSeries: AMAC: CASC
+DURATION:PT1H
+LOCATION:IMAG 106
+DTSTART:20260625T073000Z
+SUMMARY:TBA
+UID:d42305b0270e6aab87f6da14a641343e@ljk-seminars
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Speaker: Yunan Yang\nSeries: Modèles et Algorithmes Déterministes: EDP-MOISE-MGMI
 DURATION:PT1H
 LOCATION:Salle 106 - Batiment IMAG
@@ -2757,7 +2765,7 @@ DESCRIPTION:Speaker: Gianira Alfarano\nSeries: AMAC: CASC
 DURATION:PT1H
 LOCATION:IMAG 106
 DTSTART:20260430T073000Z
-SUMMARY:TBA
+SUMMARY:A geometric approach to linear codes with applications to one-weight codes
 UID:fd489cca37c5cf411a6cb7977b40c1da@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
