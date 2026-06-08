@@ -681,6 +681,14 @@ SUMMARY:Modèle de graphe aléatoire à positions latentes\, et applications sta
 UID:0a0f4748ebaa993db07088ada8d4e8e0@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Speaker: Rémi Molinier\nSeries: Données et Aléatoire Théorie & Applications
+DURATION:PT1H
+LOCATION:Room 1 at IMAG
+DTSTART:20260618T123000Z
+SUMMARY:Partial insights into partial groups
+UID:b1fefec697940eceb9aa25f120b5ee70@ljk-seminars
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Speaker: Joao Steinstraesser\nSeries: AMAC: EDP-AIRSEA-CVGI
 DURATION:PT1H
 LOCATION:IMAG 106
@@ -2417,14 +2425,6 @@ LOCATION:Salle 106 - Batiment IMAG
 DTSTART:20190912T090000Z
 SUMMARY:Introduction aux schémas de différences finies non standards
 UID:4730d3a6c63a3de0a4f65b280e1d2bb2@ljk-seminars
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Michele Filippone\nSeries: AMAC: CASC
-DURATION:PT1H
-LOCATION:IMAG 106
-DTSTART:20260625T073000Z
-SUMMARY:A graphical diagnostic of topological order using ZX calculus
-UID:d42305b0270e6aab87f6da14a641343e@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Speaker: Yunan Yang\nSeries: Modèles et Algorithmes Déterministes: EDP-MOISE-MGMI
@@ -4542,6 +4542,14 @@ LOCATION:Salle 1 - Tour IRMA
 DTSTART:20160218T130000Z
 SUMMARY:EDP structurée en âge : une approche par processus ponctuels.
 UID:73860873db4ec64c416ef8fafaa28113@ljk-seminars
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Susanne Ditlevsen\nSeries: Données et Aléatoire Théorie & Applications
+DURATION:PT1H
+LOCATION:Room 1 at IMAG
+DTSTART:20260618T120000Z
+SUMMARY:Estimating early warning signals and tipping points in climate
+UID:b2ee6ba4bbbc357e1e43426aca665027@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Speaker: Charles Olivier-Anclin\nSeries: AMAC: CASC
