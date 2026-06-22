@@ -435,6 +435,14 @@ SUMMARY:Bi-level optimization in Machine Learning
 UID:8a46881cca8f8a18c21f8ba3b85a204c@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Speaker: Jérôme Dedecker\nSeries: Données et Aléatoire Théorie & Applications
+DURATION:PT1H
+LOCATION:Salle 106
+DTSTART:20261008T120000Z
+SUMMARY:A venir
+UID:c8b4fc2b80caa4d6d456a14d270baffd@ljk-seminars
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Speaker: Charlie Jacomme\nSeries: AMAC: CASC
 DURATION:PT1H
 LOCATION:IMAG 206
@@ -1110,20 +1118,20 @@ SUMMARY:Model-Based Clustering with Sparse Covariances
 UID:ffb6d4046687fee2f5371100de7ee897@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Speaker: Alek Frohlich\nSeries: Données et Aléatoire Théorie & Applications
+DURATION:PT1H
+LOCATION:Salle 106
+DTSTART:20260910T120000Z
+SUMMARY:A venir
+UID:0c2b80ff9115946bce52a7f154ebdea6@ljk-seminars
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Speaker: Sophie Jaffard\nSeries: Données et Aléatoire Théorie & Applications
 DURATION:PT1H
 LOCATION:Salle 106
 DTSTART:20250703T120000Z
 SUMMARY:Spiking Neural Networks: Learning as Point Processes
 UID:c62610d07bb0ccccc0a972a6b1038c1f@ljk-seminars
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Thomas Espitau\nSeries: Modèles et Algorithmes Déterministes: CASYS
-DURATION:PT1H
-LOCATION:Amphithéâtre - RDC - Tour IRMA
-DTSTART:20171219T130000Z
-SUMMARY:Certified lattice reduction\, with a view towards algebraic number theory
-UID:a14401a1f4ba70c1395a4416821b83ff@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Speaker: Camille Labourie\nSeries: AMAC: EDP-AIRSEA-CVGI
@@ -1148,6 +1156,14 @@ LOCATION:IMAG 106
 DTSTART:20260312T103000Z
 SUMMARY:Modelling of Microbial Ecosystems
 UID:b22d88aa60caebe40a3c5ffcf0515f50@ljk-seminars
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Thomas Espitau\nSeries: Modèles et Algorithmes Déterministes: CASYS
+DURATION:PT1H
+LOCATION:Amphithéâtre - RDC - Tour IRMA
+DTSTART:20171219T130000Z
+SUMMARY:Certified lattice reduction\, with a view towards algebraic number theory
+UID:a14401a1f4ba70c1395a4416821b83ff@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Speaker: Anne Estrade\nSeries: Probabilités & Statistique
@@ -2150,12 +2166,12 @@ SUMMARY:Elliptic Curves for SNARK and Proof Systems
 UID:692371de843940e4e4a69e5f05fd06e6@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Antoine Godichon-Baggioni\nSeries: Probabilités & Statistique
+DESCRIPTION:Speaker: Alex Podgorny\nSeries: Données et Aléatoire Théorie & Applications
 DURATION:PT1H
-LOCATION:Salle 106 - Batiment IMAG
-DTSTART:20180419T120000Z
-SUMMARY:Algorithmes stochastiques pour la statistique robuste en grande dimension
-UID:d536ab2806a2425650d12aa48c7a254e@ljk-seminars
+LOCATION:Salle 106
+DTSTART:20261217T130000Z
+SUMMARY:Test MMD à deux échantillons invariant par action de groupe
+UID:851811e0d0f88d75ac2aee77077587cd@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Speaker: Stéphane Chrétien\nSeries: Données et Aléatoire Théorie & Applications
@@ -2172,6 +2188,14 @@ LOCATION:IMAG 106
 DTSTART:20230309T103000Z
 SUMMARY:Fast kernel methods with symbolic matrices: the KeOps library
 UID:cb700cb112e620a5f3ed0e67dc4872c2@ljk-seminars
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Antoine Godichon-Baggioni\nSeries: Probabilités & Statistique
+DURATION:PT1H
+LOCATION:Salle 106 - Batiment IMAG
+DTSTART:20180419T120000Z
+SUMMARY:Algorithmes stochastiques pour la statistique robuste en grande dimension
+UID:d536ab2806a2425650d12aa48c7a254e@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Speaker: Jacques Printems\nSeries: Données et Aléatoire Théorie & Applications
@@ -2536,6 +2560,14 @@ LOCATION:IMAG 106
 DTSTART:20220908T090000Z
 SUMMARY:Evolving the Message Passing Interface (MPI) for Future Architectures
 UID:d949ea92ca2668174bd25dd5e9cfe1bb@ljk-seminars
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Vivian Vallon\nSeries: Données et Aléatoire Théorie & Applications
+DURATION:PT1H
+LOCATION:Salle 106
+DTSTART:20261126T130000Z
+SUMMARY:A venir
+UID:fbb28c8a099a50fe31d2518467c9b533@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Speaker: Charlotte Perrin\nSeries: AMAC: EDP-AIRSEA-CVGI
