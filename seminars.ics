@@ -3534,6 +3534,14 @@ SUMMARY:Existence de minimiseurs pour le problème classique de fracture de Grif
 UID:c7794b24f532a724eb44d2ac40f5fa93@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Speaker: Jean-Guillaume Dumas\nSeries: AMAC: CASC
+DURATION:PT1H
+LOCATION:IMAG 106
+DTSTART:20260702T073000Z
+SUMMARY:Computational Explorations on the Tensor Rank and the Additive Complexity of (Semi)Fields
+UID:ecf0671a76659bcc58c778cf3e06509b@ljk-seminars
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Speaker: Sébastien Da Veiga\nSeries: Données et Aléatoire Théorie & Applications
 DURATION:PT1H
 DTSTART:20210304T130000Z
