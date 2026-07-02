@@ -1413,6 +1413,14 @@ SUMMARY:Wasserstein distances and other metrics for discretely observed Lévy pr
 UID:ca54056382bbcaedaa44b9082e105dbc@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Speaker: Martin Gandon\, Alexandre Klein\, Yasser Namaty\nSeries: AMAC: CASC
+DURATION:PT1H
+LOCATION:IMAG 106
+DTSTART:20260710T073000Z
+SUMMARY:Présentations de stages
+UID:3980776fb669e23efd193a092de46ee2@ljk-seminars
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Speaker: Marie-Pierre Etienne\nSeries: Données et Aléatoire Théorie & Applications
 DURATION:PT1H
 LOCATION:Zoom
