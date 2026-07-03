@@ -3232,6 +3232,14 @@ SUMMARY:Vers l'estimation de matrices de covariance d'erreur de prévision pour 
 UID:de95a40b6a83b8ade277f9b1f925017d@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Speaker: Guillaume  Mestdagh\nSeries: AMAC: EDP-AIRSEA-CVGI
+DURATION:PT1H
+LOCATION:IMAG 106
+DTSTART:20260917T093000Z
+SUMMARY:TBA
+UID:e6215bc81e40477513a0eda8aecd80f0@ljk-seminars
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Speaker: Dominique Duval\nSeries: AMAC: CASC
 DURATION:PT1H
 LOCATION:IMAG 106
