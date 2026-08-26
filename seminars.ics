@@ -514,6 +514,14 @@ SUMMARY:On the uniqueness of the Simultaneous Rational Function Reconstruction
 UID:e305273a02660e6ea156f69c3fc589fc@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Speaker: Sofiane Cherf\nSeries: AMAC: EDP-AIRSEA-CVGI
+DURATION:PT1H
+LOCATION:IMAG 106
+DTSTART:20261001T093000Z
+SUMMARY:TBA
+UID:5375dc6719cd1059c40f3778aafca6cf@ljk-seminars
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Speaker: Jean-Marc Robert\nSeries: Modèles et Algorithmes Déterministes: CASYS
 DURATION:PT1H
 LOCATION:Salle 106 - Batiment IMAG
