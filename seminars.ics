@@ -1849,6 +1849,14 @@ SUMMARY:The Neumann eigenvalue problem for the $\\\\infty$-Laplacian
 UID:a5c7663dbb52f148d6cb375ed670d777@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Speaker: Jean-François Biasse\nSeries: AMAC: CASC
+DURATION:PT1H
+LOCATION:IMAG 106
+DTSTART:20260924T073000Z
+SUMMARY:TBA
+UID:6a77691eea03ed629e1fee5d72ef81af@ljk-seminars
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Speaker: Adélia Sequeira\nSeries: Modèles et Algorithmes Déterministes: EDP-MOISE-MGMI
 DURATION:PT1H
 LOCATION:Salle 106 - Batiment IMAG
