@@ -1063,6 +1063,14 @@ SUMMARY:Stochastic Online Optimization using Kalman Recursion
 UID:dea9591cf903517585729fca0d0e6ffe@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Speaker: Serge Fenet\nSeries: Données et Aléatoire Théorie & Applications
+DURATION:PT1H
+LOCATION:Salle 106
+DTSTART:20260924T120000Z
+SUMMARY:A venir
+UID:d7d0c9c713f083de469f1c3c9a218869@ljk-seminars
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Speaker: Antoine de Tarlé\nSeries: AMAC: CASC
 DURATION:PT1H
 LOCATION:IMAG 106
@@ -1130,7 +1138,7 @@ DESCRIPTION:Speaker: Alek Frohlich\nSeries: Données et Aléatoire Théorie & A
 DURATION:PT1H
 LOCATION:Salle 106
 DTSTART:20260910T120000Z
-SUMMARY:A venir
+SUMMARY:Toward Scalable and Valid Conditional Independence Testing with Spectral Representations
 UID:0c2b80ff9115946bce52a7f154ebdea6@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
@@ -2286,6 +2294,14 @@ SUMMARY:Functional smoothing for sparse and cost-informed prediction of output d
 UID:d24f7559e94dcf844478054078f80241@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Speaker: Bruno Galerne\nSeries: Données et Aléatoire Théorie & Applications
+DURATION:PT1H
+LOCATION:Auditorium
+DTSTART:20261001T120000Z
+SUMMARY:A venir
+UID:3e4264eb4be17ae4f1eaf93f3f17d335@ljk-seminars
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Speaker: Aya El Dakdouki\nSeries: Données et Aléatoire Théorie & Applications
 DURATION:PT1H
 DTSTART:20201022T120000Z
@@ -2544,6 +2560,14 @@ LOCATION:Salle 106 - Batiment IMAG
 DTSTART:20170119T130000Z
 SUMMARY:Statistical estimation of the Oscillating Brownian Motion
 UID:10cbcae4521d622e1cd8dbe9e3d8ea59@ljk-seminars
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Ouerdia Arezki\nSeries: Données et Aléatoire Théorie & Applications
+DURATION:PT1H
+LOCATION:Salle 106
+DTSTART:20261112T130000Z
+SUMMARY:A venir
+UID:4bb02e86041c3d221e875a79968da301@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Speaker: Yoann BLANGERO\nSeries: Probabilités & Statistique
