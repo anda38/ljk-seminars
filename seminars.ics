@@ -2298,7 +2298,7 @@ DESCRIPTION:Speaker: Bruno Galerne\nSeries: Données et Aléatoire Théorie & Ap
 DURATION:PT1H
 LOCATION:Auditorium
 DTSTART:20261001T120000Z
-SUMMARY:A venir
+SUMMARY:Diffusion models for Gaussian distributions: Exact solutions and Wasserstein errors
 UID:3e4264eb4be17ae4f1eaf93f3f17d335@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
@@ -4648,20 +4648,20 @@ SUMMARY:Estimating early warning signals and tipping points in climate
 UID:b2ee6ba4bbbc357e1e43426aca665027@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Speaker: Réunion DATA\nSeries: Données et Aléatoire Théorie & Applications
+DURATION:PT1H
+LOCATION:Salle 106
+DTSTART:20260917T120000Z
+SUMMARY:Réunion du département DATA
+UID:197be4c6de37ff9fa5e9733578d7c899@ljk-seminars
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Speaker: Charles Olivier-Anclin\nSeries: AMAC: CASC
 DURATION:PT1H
 LOCATION:IMAG 106
 DTSTART:20250130T083000Z
 SUMMARY:Taming Delegations in Anonymous Signatures: k-Times Anonymity for Proxy and Sanitizable Signatures
 UID:b677c51e2a18a178fc9c83d0334d4a24@ljk-seminars
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Paul Bastide\nSeries: Probabilités & Statistique
-DURATION:PT1H
-LOCATION:Salle 106 - Batiment IMAG
-DTSTART:20180927T120000Z
-SUMMARY:Détection de ruptures sur arbre pour l'inférence de scénarios évolutifs à partir de l'observation d'espèces actuelles
-UID:8c9d4d30710a91e1de724162c5f6e98d@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Speaker: Scalde\nSeries: Données et Aléatoire Théorie & Applications
@@ -4678,6 +4678,14 @@ LOCATION:Salle 106 - Batiment IMAG
 DTSTART:20181004T090000Z
 SUMMARY:Jeux à Champ Moyen Variationnels
 UID:258084d63260fc2b676a32ee37c90e7e@ljk-seminars
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Paul Bastide\nSeries: Probabilités & Statistique
+DURATION:PT1H
+LOCATION:Salle 106 - Batiment IMAG
+DTSTART:20180927T120000Z
+SUMMARY:Détection de ruptures sur arbre pour l'inférence de scénarios évolutifs à partir de l'observation d'espèces actuelles
+UID:8c9d4d30710a91e1de724162c5f6e98d@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Speaker: Antoine Lemoine\nSeries: Modèles et Algorithmes Déterministes: EDP-MOISE-MGMI
