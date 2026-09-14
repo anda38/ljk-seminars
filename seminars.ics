@@ -4094,6 +4094,14 @@ SUMMARY:Time reversal and other phenomena in graphene plasmons
 UID:02bff85f4ad95ba5f0ead6ad87d5ae89@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Speaker: Camille Carvalho\nSeries: AMAC: EDP-AIRSEA-CVGI
+DURATION:PT1H
+LOCATION:IMAG 106
+DTSTART:20261022T093000Z
+SUMMARY:TBA
+UID:eda7595e80d2d61924c4a38c570bc3c1@ljk-seminars
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Speaker: Rémy Drouilhet\nSeries: Données et Aléatoire Théorie & Applications
 DURATION:PT1H
 LOCATION:Zoom - https://videos.univ-grenoble-alpes.fr/video/19939-seminaire-ljk-17-06-21-remy-drouilhet/
