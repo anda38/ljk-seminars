@@ -1075,7 +1075,7 @@ DESCRIPTION:Speaker: Serge Fenet\nSeries: Données et Aléatoire Théorie & Appl
 DURATION:PT1H
 LOCATION:Salle 106
 DTSTART:20260924T120000Z
-SUMMARY:A venir
+SUMMARY:Mesurer la ville : indices spatiaux\, étalement urbain et données ouvertes
 UID:d7d0c9c713f083de469f1c3c9a218869@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
@@ -4338,6 +4338,14 @@ LOCATION:Salle 106 - Batiment IMAG
 DTSTART:20171109T100000Z
 SUMMARY:Strongly Stable High-order Temporal Integration Schemes for Nonlinear Systems in Atmospheric Models
 UID:ad926c3922f940fc9b5436ec7c7627c9@ljk-seminars
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Jean-Baptiste KECK\nSeries: AMAC: EDP-AIRSEA-CVGI
+DURATION:PT1H
+LOCATION:IMAG 106
+DTSTART:20261008T093000Z
+SUMMARY:TBA
+UID:726416e4cba323cb9a089cb84cda8af2@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Speaker: Jonathan Weed\nSeries: Probabilités & Statistique
