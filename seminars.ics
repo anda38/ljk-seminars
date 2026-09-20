@@ -4640,6 +4640,14 @@ SUMMARY:Modélisation de textures : Champs browniens fractionnaires et signal mo
 UID:eacd86bf9c58f07a7585fc5725684ffd@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Speaker: Raphaël Barboni\nSeries: Données et Aléatoire Théorie & Applications
+DURATION:PT1H
+LOCATION:Salle 106
+DTSTART:20270114T130000Z
+SUMMARY:A venir
+UID:64bfd1fb2ce0bf887ce76fb7de702ca9@ljk-seminars
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Speaker: Jocelyn CHAUVET\nSeries: Probabilités & Statistique
 DURATION:PT1H
 LOCATION:Salle 106 - Batiment IMAG
