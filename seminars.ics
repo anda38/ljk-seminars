@@ -491,6 +491,14 @@ SUMMARY:Diffusion models for Gaussian distributions: Exact solutions and Wassers
 UID:5b72594a6f366933fbfa0cf932c3c388@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Speaker: Jean-Baptiste KECK\nSeries: AMAC: EDP-AIRSEA-CVGI
+DURATION:PT1H
+LOCATION:IMAG 106
+DTSTART:20261013T093000Z
+SUMMARY:TBA
+UID:c66dc69af57aef61ae9a3d5b5ed12107@ljk-seminars
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Speaker: Laura Maria Sangalli\nSeries: Données et Aléatoire Théorie & Applications
 DURATION:PT1H
 LOCATION:Zoom https://www-ljk.imag.fr/membres/Julien.Chevallier/seminaire.html
@@ -4338,14 +4346,6 @@ LOCATION:Salle 106 - Batiment IMAG
 DTSTART:20171109T100000Z
 SUMMARY:Strongly Stable High-order Temporal Integration Schemes for Nonlinear Systems in Atmospheric Models
 UID:ad926c3922f940fc9b5436ec7c7627c9@ljk-seminars
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker: Jean-Baptiste KECK\nSeries: AMAC: EDP-AIRSEA-CVGI
-DURATION:PT1H
-LOCATION:IMAG 106
-DTSTART:20261008T093000Z
-SUMMARY:TBA
-UID:726416e4cba323cb9a089cb84cda8af2@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Speaker: Jonathan Weed\nSeries: Probabilités & Statistique
