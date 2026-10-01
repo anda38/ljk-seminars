@@ -3622,6 +3622,14 @@ SUMMARY:Computational Explorations on the Tensor Rank and the Additive Complexit
 UID:ecf0671a76659bcc58c778cf3e06509b@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Speaker: Salem Said\nSeries: Données et Aléatoire Théorie & Applications
+DURATION:PT1H
+LOCATION:Salle 106
+DTSTART:20261119T130000Z
+SUMMARY:CURS : curvature-based rejection sampling
+UID:9ae2cae2b950112b1da2a9a8e401c6c8@ljk-seminars
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Speaker: Sébastien Da Veiga\nSeries: Données et Aléatoire Théorie & Applications
 DURATION:PT1H
 DTSTART:20210304T130000Z
