@@ -546,6 +546,14 @@ SUMMARY:Enhanced Digital Signature using Splitted Digit Exponent Representation
 UID:5d983437e0cb868ec3af756a6f27e76a@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Speaker: Michael Arbel\nSeries: Données et Aléatoire Théorie & Applications
+DURATION:PT1H
+LOCATION:Auditorium
+DTSTART:20270204T130000Z
+SUMMARY:A venir
+UID:dccb182b8e55c6dbb30057963d5b6f4e@ljk-seminars
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Speaker: Daniel S Roche\nSeries: Modèles et Algorithmes Déterministes: CASYS
 DURATION:PT1H
 LOCATION:Salle 104 - Batiment IMAG
@@ -4122,7 +4130,7 @@ DESCRIPTION:Speaker: Camille Carvalho\nSeries: AMAC: EDP-AIRSEA-CVGI
 DURATION:PT1H
 LOCATION:IMAG 106
 DTSTART:20261022T093000Z
-SUMMARY:TBA
+SUMMARY:Discrétisation optimale dans des milieux multicouches à forts contrastes : une histoire d'interfaces
 UID:eda7595e80d2d61924c4a38c570bc3c1@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
