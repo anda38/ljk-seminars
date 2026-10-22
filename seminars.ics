@@ -4468,12 +4468,12 @@ SUMMARY:A venir
 UID:855e9e451338c2dafe46d9ae03732f3b@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Speaker: Elena Di Bernardino\nSeries: Données et Aléatoire Théorie & Applications
+DESCRIPTION:Speaker: Leonardo Coló\nSeries: AMAC: CASC
 DURATION:PT1H
-LOCATION:Salle 106 - Batiment IMAG
-DTSTART:20200312T130000Z
-SUMMARY:Lipschitz-Killing curvatures of excursion sets for two-dimensional random fields
-UID:d3de91333389f0a29b32a2e2a8186a00@ljk-seminars
+LOCATION:TBA
+DTSTART:20261105T120000Z
+SUMMARY:TBA
+UID:ad286d5884b250b29bf363c3ed1b8c87@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Speaker: Manon Costa\nSeries: Données et Aléatoire Théorie & Applications
@@ -4482,6 +4482,14 @@ LOCATION:Salle 106
 DTSTART:20260225T120000Z
 SUMMARY:Portfolio optimization under CV@R constraint with stochastic mirror descent
 UID:a6db5890eb328b9442750fab9ba46f7e@ljk-seminars
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Elena Di Bernardino\nSeries: Données et Aléatoire Théorie & Applications
+DURATION:PT1H
+LOCATION:Salle 106 - Batiment IMAG
+DTSTART:20200312T130000Z
+SUMMARY:Lipschitz-Killing curvatures of excursion sets for two-dimensional random fields
+UID:d3de91333389f0a29b32a2e2a8186a00@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Speaker: Aurélien Garivier\nSeries: Données et Aléatoire Théorie & Applications
