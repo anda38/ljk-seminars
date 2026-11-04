@@ -2606,7 +2606,7 @@ DESCRIPTION:Speaker: Ouerdia Arezki\nSeries: Données et Aléatoire Théorie & A
 DURATION:PT1H
 LOCATION:Salle 106
 DTSTART:20261112T130000Z
-SUMMARY:A venir
+SUMMARY:Sélection de la limite de Yaglom par un système de Fleming–Viot pour des processus de Bellman–Harris structurés en âge
 UID:4bb02e86041c3d221e875a79968da301@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
@@ -3620,6 +3620,14 @@ LOCATION:Salle 106 - Batiment IMAG
 DTSTART:20170105T130000Z
 SUMMARY:Détection Multidimensionnelle au Test Paramétrique avec Recherche Automatique des Causes
 UID:7aed205c48d51f7c1a62682aee641510@ljk-seminars
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker: Emilie Devijver\nSeries: Données et Aléatoire Théorie & Applications
+DURATION:PT1H
+LOCATION:Auditorium
+DTSTART:20270107T130000Z
+SUMMARY:Inférence causale : introduction\, abstraction et apprentissage automatique causal
+UID:5325f3351bbba2b9a3a68d7c082e1bd4@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Speaker: Flaviana IURLANO\nSeries: Modèles et Algorithmes Déterministes: EDP-MOISE-MGMI
