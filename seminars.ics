@@ -4784,6 +4784,14 @@ SUMMARY:Détection de ruptures sur arbre pour l'inférence de scénarios évolut
 UID:8c9d4d30710a91e1de724162c5f6e98d@ljk-seminars
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Speaker: Averil AUSSEDAT\nSeries: AMAC: EDP-AIRSEA-CVGI
+DURATION:PT1H
+LOCATION:IMAG 106
+DTSTART:20261126T103000Z
+SUMMARY:TBA
+UID:6526885b714930e149cb4075157ff17e@ljk-seminars
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Speaker: Antoine Lemoine\nSeries: Modèles et Algorithmes Déterministes: EDP-MOISE-MGMI
 DURATION:PT1H
 LOCATION:Salle 2 - Tour IRMA
